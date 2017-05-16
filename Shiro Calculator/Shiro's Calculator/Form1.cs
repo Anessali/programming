@@ -12,9 +12,24 @@ namespace Shiro_s_Calculator
 {
     public partial class Form1 : Form
     {
+        class NoSelectButton : Button
+        {
+            public NoSelectButton()
+            {
+                SetStyle(ControlStyles.Selectable, false);
+            }
+        }
         public Form1()
         {
             InitializeComponent();
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
+        private void btn_click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
