@@ -1,0 +1,17 @@
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Form1.resources
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Properties.Resources.resources
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro's Calculator.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro's Calculator.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro's Calculator.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro's Calculator.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro's Calculator.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro's Calculator.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro's Calculator.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Form1.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\150\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro's Calculator.csproj.GenerateResource.Cache
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.exe.config
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.exe
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.pdb
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.exe
+C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.pdb
