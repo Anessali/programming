@@ -37,9 +37,10 @@
             // 
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.BackgroundImage = global::Shiro_s_Calculator.Properties.Resources.Touka_Blushing;
-            this.pictureBox2.Location = new System.Drawing.Point(1, 1);
+            this.pictureBox2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox2.Location = new System.Drawing.Point(0, 0);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(305, 406);
+            this.pictureBox2.Size = new System.Drawing.Size(310, 409);
             this.pictureBox2.TabIndex = 0;
             this.pictureBox2.TabStop = false;
             // 
@@ -48,11 +49,12 @@
             this.btnAwayFromMe.BackColor = System.Drawing.Color.DarkViolet;
             this.btnAwayFromMe.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btnAwayFromMe.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btnAwayFromMe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAwayFromMe.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAwayFromMe.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.btnAwayFromMe.Location = new System.Drawing.Point(1, 328);
+            this.btnAwayFromMe.Location = new System.Drawing.Point(0, 328);
             this.btnAwayFromMe.Name = "btnAwayFromMe";
-            this.btnAwayFromMe.Size = new System.Drawing.Size(305, 39);
+            this.btnAwayFromMe.Size = new System.Drawing.Size(310, 39);
             this.btnAwayFromMe.TabIndex = 1;
             this.btnAwayFromMe.Text = "Away from me, woman!";
             this.btnAwayFromMe.UseVisualStyleBackColor = false;
@@ -81,7 +83,7 @@
 
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Button btnAwayFromMe;
+        private System.Windows.Forms.PictureBox pictureBox2;
     }
 }

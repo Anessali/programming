@@ -25,3 +25,4 @@ E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.P
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.MessageBaka.resources
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\NCalc.dll

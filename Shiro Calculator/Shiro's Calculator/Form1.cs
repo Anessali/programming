@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using NCalc;
 
 namespace Shiro_s_Calculator
 {
@@ -14,10 +15,10 @@ namespace Shiro_s_Calculator
     {
         //public variables
         char num;
-        string formula;
+        string formula; //contains formula to be passed to NCalc
         int count = -1; //tracks string size - must start at -1
-        double display; //for TryParse
-        
+        //double display; //for TryParse
+        MessageBaka touka = new MessageBaka();
         public Form1()
         {
             InitializeComponent();
@@ -26,13 +27,19 @@ namespace Shiro_s_Calculator
         {
             txtDisplay.Text = formula;
         }//sets txtDisplay to formula
-        private void BakaHentai()
+        private void PervyTouka()
         {
-            MessageBaka touka = new MessageBaka();
-            touka.Show();
-            //MessageBox.Show("Are you a baka hentai?", "B-baka...",
-            //            MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-        }
+            if (txtDisplay.Text == "69" && touka.Touka != true)
+            {
+                touka.Show();
+                touka.Touka = true;
+            }
+        }//Touka questions user if they enter 69
+        public void ToukaMath(string formula)
+        {
+            Expression problem = new Expression(formula);
+            txtResults.Text = problem.Evaluate().ToString();
+        }//does mathematical calculations
         #region Visual Studio generated modules
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -41,7 +48,6 @@ namespace Shiro_s_Calculator
             lblFocus.Text = "";
             txtDisplay.BackColor = Color.FromArgb(217, 179, 255);
             txtResults.BackColor = Color.FromArgb(217, 179, 255);
-
         }
         private void btn_click(object sender, EventArgs e)
         {
@@ -80,11 +86,8 @@ namespace Shiro_s_Calculator
             try
             {
                 txtResults.Text = txtDisplay.Text;
-                if (txtDisplay.Text == "69")
-                {
-                    BakaHentai();
-                }
-                double.TryParse(txtDisplay.Text, out display);
+                ToukaMath(formula);
+                PervyTouka();
             }
             catch
             {

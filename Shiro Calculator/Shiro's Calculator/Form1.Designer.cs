@@ -60,7 +60,7 @@
             this.btnOne.BackColor = System.Drawing.Color.DarkViolet;
             this.btnOne.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOne.ForeColor = System.Drawing.Color.White;
-            this.btnOne.Location = new System.Drawing.Point(13, 137);
+            this.btnOne.Location = new System.Drawing.Point(13, 233);
             this.btnOne.Name = "btnOne";
             this.btnOne.Size = new System.Drawing.Size(62, 42);
             this.btnOne.TabIndex = 0;
@@ -74,7 +74,7 @@
             this.btnTwo.BackColor = System.Drawing.Color.DarkViolet;
             this.btnTwo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTwo.ForeColor = System.Drawing.Color.White;
-            this.btnTwo.Location = new System.Drawing.Point(13, 185);
+            this.btnTwo.Location = new System.Drawing.Point(81, 233);
             this.btnTwo.Name = "btnTwo";
             this.btnTwo.Size = new System.Drawing.Size(62, 42);
             this.btnTwo.TabIndex = 1;
@@ -88,7 +88,7 @@
             this.btnThree.BackColor = System.Drawing.Color.DarkViolet;
             this.btnThree.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThree.ForeColor = System.Drawing.Color.White;
-            this.btnThree.Location = new System.Drawing.Point(13, 233);
+            this.btnThree.Location = new System.Drawing.Point(149, 233);
             this.btnThree.Name = "btnThree";
             this.btnThree.Size = new System.Drawing.Size(62, 42);
             this.btnThree.TabIndex = 2;
@@ -102,7 +102,7 @@
             this.btnFour.BackColor = System.Drawing.Color.DarkViolet;
             this.btnFour.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFour.ForeColor = System.Drawing.Color.White;
-            this.btnFour.Location = new System.Drawing.Point(82, 137);
+            this.btnFour.Location = new System.Drawing.Point(13, 185);
             this.btnFour.Name = "btnFour";
             this.btnFour.Size = new System.Drawing.Size(62, 42);
             this.btnFour.TabIndex = 3;
@@ -116,7 +116,7 @@
             this.btnFive.BackColor = System.Drawing.Color.DarkViolet;
             this.btnFive.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFive.ForeColor = System.Drawing.Color.White;
-            this.btnFive.Location = new System.Drawing.Point(82, 185);
+            this.btnFive.Location = new System.Drawing.Point(81, 185);
             this.btnFive.Name = "btnFive";
             this.btnFive.Size = new System.Drawing.Size(62, 42);
             this.btnFive.TabIndex = 4;
@@ -130,7 +130,7 @@
             this.btnSix.BackColor = System.Drawing.Color.DarkViolet;
             this.btnSix.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSix.ForeColor = System.Drawing.Color.White;
-            this.btnSix.Location = new System.Drawing.Point(82, 233);
+            this.btnSix.Location = new System.Drawing.Point(149, 185);
             this.btnSix.Name = "btnSix";
             this.btnSix.Size = new System.Drawing.Size(62, 42);
             this.btnSix.TabIndex = 5;
@@ -144,7 +144,7 @@
             this.btnSeven.BackColor = System.Drawing.Color.DarkViolet;
             this.btnSeven.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSeven.ForeColor = System.Drawing.Color.White;
-            this.btnSeven.Location = new System.Drawing.Point(149, 137);
+            this.btnSeven.Location = new System.Drawing.Point(13, 137);
             this.btnSeven.Name = "btnSeven";
             this.btnSeven.Size = new System.Drawing.Size(62, 42);
             this.btnSeven.TabIndex = 6;
@@ -158,7 +158,7 @@
             this.btnEight.BackColor = System.Drawing.Color.DarkViolet;
             this.btnEight.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEight.ForeColor = System.Drawing.Color.White;
-            this.btnEight.Location = new System.Drawing.Point(149, 185);
+            this.btnEight.Location = new System.Drawing.Point(81, 137);
             this.btnEight.Name = "btnEight";
             this.btnEight.Size = new System.Drawing.Size(62, 42);
             this.btnEight.TabIndex = 7;
@@ -172,7 +172,7 @@
             this.btnNine.BackColor = System.Drawing.Color.DarkViolet;
             this.btnNine.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNine.ForeColor = System.Drawing.Color.White;
-            this.btnNine.Location = new System.Drawing.Point(149, 233);
+            this.btnNine.Location = new System.Drawing.Point(149, 137);
             this.btnNine.Name = "btnNine";
             this.btnNine.Size = new System.Drawing.Size(62, 42);
             this.btnNine.TabIndex = 8;
@@ -206,7 +206,7 @@
             this.btnMultiply.Name = "btnMultiply";
             this.btnMultiply.Size = new System.Drawing.Size(57, 42);
             this.btnMultiply.TabIndex = 10;
-            this.btnMultiply.Text = "×";
+            this.btnMultiply.Text = "*";
             this.btnMultiply.UseVisualStyleBackColor = false;
             this.btnMultiply.Click += new System.EventHandler(this.btn_click);
             // 
@@ -221,7 +221,7 @@
             this.btnDivide.Name = "btnDivide";
             this.btnDivide.Size = new System.Drawing.Size(57, 42);
             this.btnDivide.TabIndex = 11;
-            this.btnDivide.Text = "÷";
+            this.btnDivide.Text = "/";
             this.btnDivide.UseVisualStyleBackColor = false;
             this.btnDivide.Click += new System.EventHandler(this.btn_click);
             // 
@@ -231,7 +231,7 @@
             this.btnZero.BackColor = System.Drawing.Color.DarkViolet;
             this.btnZero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnZero.ForeColor = System.Drawing.Color.White;
-            this.btnZero.Location = new System.Drawing.Point(82, 281);
+            this.btnZero.Location = new System.Drawing.Point(81, 281);
             this.btnZero.Name = "btnZero";
             this.btnZero.Size = new System.Drawing.Size(62, 42);
             this.btnZero.TabIndex = 12;
@@ -408,6 +408,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
             this.Name = "Form1";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Text = "Touka\'s Calculator";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
