@@ -7,3 +7,12 @@ C:\Users\liggettt\Documents\Programming\Shiro Calculator\Shiro's Calculator\obj\
 C:\Users\liggettt\Documents\Programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Form1.resources
 C:\Users\liggettt\Documents\Programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Properties.Resources.resources
 C:\Users\liggettt\Documents\Programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.csproj.GenerateResource.Cache
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.exe.config
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.exe
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.pdb
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.csprojResolveAssemblyReference.cache
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Form1.resources
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Properties.Resources.resources
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.csproj.GenerateResource.Cache
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.exe
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.pdb

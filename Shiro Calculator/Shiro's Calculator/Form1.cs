@@ -12,24 +12,27 @@ namespace Shiro_s_Calculator
 {
     public partial class Form1 : Form
     {
-        class NoSelectButton : Button
-        {
-            public NoSelectButton()
-            {
-                SetStyle(ControlStyles.Selectable, false);
-            }
-        }
+        //public variables
+        string formula = "";
         public Form1()
         {
             InitializeComponent();
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            lblFocus.Text = "";
         }
         private void btn_click(object sender, EventArgs e)
         {
-            
+            lblFocus.Focus(); //pulls focus off of buttons when pressed
+
+            formula += (sender as Button).Text;
+            txtDisplay.Text = formula;
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtDisplay.Clear();
         }
     }
 }
