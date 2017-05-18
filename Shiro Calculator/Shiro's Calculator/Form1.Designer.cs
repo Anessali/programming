@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btnOne = new System.Windows.Forms.Button();
             this.btnTwo = new System.Windows.Forms.Button();
             this.btnThree = new System.Windows.Forms.Button();
@@ -43,7 +44,6 @@
             this.btnZero = new System.Windows.Forms.Button();
             this.btnDot = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
-            this.btnEquals = new System.Windows.Forms.Button();
             this.btnLeftPar = new System.Windows.Forms.Button();
             this.btnRightPar = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
@@ -51,12 +51,13 @@
             this.txtDisplay = new System.Windows.Forms.TextBox();
             this.lblFocus = new System.Windows.Forms.Label();
             this.txtResults = new System.Windows.Forms.TextBox();
+            this.btnBackspace = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOne
             // 
             this.btnOne.AutoSize = true;
-            this.btnOne.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnOne.BackColor = System.Drawing.Color.DarkViolet;
             this.btnOne.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOne.ForeColor = System.Drawing.Color.White;
             this.btnOne.Location = new System.Drawing.Point(13, 132);
@@ -70,7 +71,7 @@
             // btnTwo
             // 
             this.btnTwo.AutoSize = true;
-            this.btnTwo.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnTwo.BackColor = System.Drawing.Color.DarkViolet;
             this.btnTwo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTwo.ForeColor = System.Drawing.Color.White;
             this.btnTwo.Location = new System.Drawing.Point(13, 180);
@@ -84,7 +85,7 @@
             // btnThree
             // 
             this.btnThree.AutoSize = true;
-            this.btnThree.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnThree.BackColor = System.Drawing.Color.DarkViolet;
             this.btnThree.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnThree.ForeColor = System.Drawing.Color.White;
             this.btnThree.Location = new System.Drawing.Point(13, 228);
@@ -98,7 +99,7 @@
             // btnFour
             // 
             this.btnFour.AutoSize = true;
-            this.btnFour.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnFour.BackColor = System.Drawing.Color.DarkViolet;
             this.btnFour.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFour.ForeColor = System.Drawing.Color.White;
             this.btnFour.Location = new System.Drawing.Point(82, 132);
@@ -112,7 +113,7 @@
             // btnFive
             // 
             this.btnFive.AutoSize = true;
-            this.btnFive.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnFive.BackColor = System.Drawing.Color.DarkViolet;
             this.btnFive.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFive.ForeColor = System.Drawing.Color.White;
             this.btnFive.Location = new System.Drawing.Point(82, 180);
@@ -126,7 +127,7 @@
             // btnSix
             // 
             this.btnSix.AutoSize = true;
-            this.btnSix.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnSix.BackColor = System.Drawing.Color.DarkViolet;
             this.btnSix.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSix.ForeColor = System.Drawing.Color.White;
             this.btnSix.Location = new System.Drawing.Point(82, 228);
@@ -140,7 +141,7 @@
             // btnSeven
             // 
             this.btnSeven.AutoSize = true;
-            this.btnSeven.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnSeven.BackColor = System.Drawing.Color.DarkViolet;
             this.btnSeven.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSeven.ForeColor = System.Drawing.Color.White;
             this.btnSeven.Location = new System.Drawing.Point(149, 132);
@@ -154,7 +155,7 @@
             // btnEight
             // 
             this.btnEight.AutoSize = true;
-            this.btnEight.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnEight.BackColor = System.Drawing.Color.DarkViolet;
             this.btnEight.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEight.ForeColor = System.Drawing.Color.White;
             this.btnEight.Location = new System.Drawing.Point(149, 180);
@@ -168,7 +169,7 @@
             // btnNine
             // 
             this.btnNine.AutoSize = true;
-            this.btnNine.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnNine.BackColor = System.Drawing.Color.DarkViolet;
             this.btnNine.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNine.ForeColor = System.Drawing.Color.White;
             this.btnNine.Location = new System.Drawing.Point(149, 228);
@@ -182,13 +183,13 @@
             // btnMinus
             // 
             this.btnMinus.AutoSize = true;
-            this.btnMinus.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnMinus.BackColor = System.Drawing.Color.DarkViolet;
             this.btnMinus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMinus.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMinus.ForeColor = System.Drawing.Color.White;
-            this.btnMinus.Location = new System.Drawing.Point(217, 132);
+            this.btnMinus.Location = new System.Drawing.Point(217, 180);
             this.btnMinus.Name = "btnMinus";
-            this.btnMinus.Size = new System.Drawing.Size(49, 42);
+            this.btnMinus.Size = new System.Drawing.Size(57, 42);
             this.btnMinus.TabIndex = 9;
             this.btnMinus.Text = "-";
             this.btnMinus.UseVisualStyleBackColor = false;
@@ -197,13 +198,13 @@
             // btnMultiply
             // 
             this.btnMultiply.AutoSize = true;
-            this.btnMultiply.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnMultiply.BackColor = System.Drawing.Color.DarkViolet;
             this.btnMultiply.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMultiply.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMultiply.ForeColor = System.Drawing.Color.White;
-            this.btnMultiply.Location = new System.Drawing.Point(217, 180);
+            this.btnMultiply.Location = new System.Drawing.Point(217, 228);
             this.btnMultiply.Name = "btnMultiply";
-            this.btnMultiply.Size = new System.Drawing.Size(49, 42);
+            this.btnMultiply.Size = new System.Drawing.Size(57, 42);
             this.btnMultiply.TabIndex = 10;
             this.btnMultiply.Text = "×";
             this.btnMultiply.UseVisualStyleBackColor = false;
@@ -212,13 +213,13 @@
             // btnDivide
             // 
             this.btnDivide.AutoSize = true;
-            this.btnDivide.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnDivide.BackColor = System.Drawing.Color.DarkViolet;
             this.btnDivide.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDivide.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDivide.ForeColor = System.Drawing.Color.White;
-            this.btnDivide.Location = new System.Drawing.Point(217, 228);
+            this.btnDivide.Location = new System.Drawing.Point(217, 276);
             this.btnDivide.Name = "btnDivide";
-            this.btnDivide.Size = new System.Drawing.Size(49, 42);
+            this.btnDivide.Size = new System.Drawing.Size(57, 42);
             this.btnDivide.TabIndex = 11;
             this.btnDivide.Text = "÷";
             this.btnDivide.UseVisualStyleBackColor = false;
@@ -227,7 +228,7 @@
             // btnZero
             // 
             this.btnZero.AutoSize = true;
-            this.btnZero.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnZero.BackColor = System.Drawing.Color.DarkViolet;
             this.btnZero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnZero.ForeColor = System.Drawing.Color.White;
             this.btnZero.Location = new System.Drawing.Point(82, 276);
@@ -241,7 +242,7 @@
             // btnDot
             // 
             this.btnDot.AutoSize = true;
-            this.btnDot.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnDot.BackColor = System.Drawing.Color.DarkViolet;
             this.btnDot.CausesValidation = false;
             this.btnDot.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDot.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -258,7 +259,7 @@
             // btnClear
             // 
             this.btnClear.AutoSize = true;
-            this.btnClear.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnClear.BackColor = System.Drawing.Color.DarkViolet;
             this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClear.ForeColor = System.Drawing.Color.White;
             this.btnClear.Location = new System.Drawing.Point(13, 84);
@@ -269,25 +270,10 @@
             this.btnClear.UseVisualStyleBackColor = false;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
-            // btnEquals
-            // 
-            this.btnEquals.AutoSize = true;
-            this.btnEquals.BackColor = System.Drawing.Color.DarkOrchid;
-            this.btnEquals.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnEquals.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEquals.ForeColor = System.Drawing.Color.White;
-            this.btnEquals.Location = new System.Drawing.Point(217, 276);
-            this.btnEquals.Name = "btnEquals";
-            this.btnEquals.Size = new System.Drawing.Size(49, 42);
-            this.btnEquals.TabIndex = 15;
-            this.btnEquals.Text = "=";
-            this.btnEquals.UseVisualStyleBackColor = false;
-            this.btnEquals.Click += new System.EventHandler(this.btn_click);
-            // 
             // btnLeftPar
             // 
             this.btnLeftPar.AutoSize = true;
-            this.btnLeftPar.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnLeftPar.BackColor = System.Drawing.Color.DarkViolet;
             this.btnLeftPar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLeftPar.ForeColor = System.Drawing.Color.White;
             this.btnLeftPar.Location = new System.Drawing.Point(81, 84);
@@ -301,7 +287,7 @@
             // btnRightPar
             // 
             this.btnRightPar.AutoSize = true;
-            this.btnRightPar.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnRightPar.BackColor = System.Drawing.Color.DarkViolet;
             this.btnRightPar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRightPar.ForeColor = System.Drawing.Color.White;
             this.btnRightPar.Location = new System.Drawing.Point(149, 84);
@@ -315,13 +301,13 @@
             // btnAdd
             // 
             this.btnAdd.AutoSize = true;
-            this.btnAdd.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnAdd.BackColor = System.Drawing.Color.DarkViolet;
             this.btnAdd.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAdd.ForeColor = System.Drawing.Color.White;
-            this.btnAdd.Location = new System.Drawing.Point(217, 84);
+            this.btnAdd.Location = new System.Drawing.Point(217, 132);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(49, 42);
+            this.btnAdd.Size = new System.Drawing.Size(57, 42);
             this.btnAdd.TabIndex = 18;
             this.btnAdd.Text = "+";
             this.btnAdd.UseVisualStyleBackColor = false;
@@ -330,7 +316,7 @@
             // btnNegative
             // 
             this.btnNegative.AutoSize = true;
-            this.btnNegative.BackColor = System.Drawing.Color.DarkOrchid;
+            this.btnNegative.BackColor = System.Drawing.Color.DarkViolet;
             this.btnNegative.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNegative.ForeColor = System.Drawing.Color.White;
             this.btnNegative.Location = new System.Drawing.Point(149, 276);
@@ -346,8 +332,11 @@
             this.txtDisplay.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtDisplay.Location = new System.Drawing.Point(12, 7);
             this.txtDisplay.Name = "txtDisplay";
-            this.txtDisplay.Size = new System.Drawing.Size(253, 35);
+            this.txtDisplay.ReadOnly = true;
+            this.txtDisplay.Size = new System.Drawing.Size(262, 35);
             this.txtDisplay.TabIndex = 20;
+            this.txtDisplay.TabStop = false;
+            this.txtDisplay.TextChanged += new System.EventHandler(this.txtDisplay_TextChanged);
             // 
             // lblFocus
             // 
@@ -365,15 +354,33 @@
             this.txtResults.Location = new System.Drawing.Point(12, 43);
             this.txtResults.Name = "txtResults";
             this.txtResults.ReadOnly = true;
-            this.txtResults.Size = new System.Drawing.Size(253, 35);
+            this.txtResults.Size = new System.Drawing.Size(262, 35);
             this.txtResults.TabIndex = 22;
+            this.txtResults.TabStop = false;
+            // 
+            // btnBackspace
+            // 
+            this.btnBackspace.AutoSize = true;
+            this.btnBackspace.BackColor = System.Drawing.Color.DarkViolet;
+            this.btnBackspace.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBackspace.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBackspace.ForeColor = System.Drawing.Color.White;
+            this.btnBackspace.Location = new System.Drawing.Point(217, 84);
+            this.btnBackspace.Name = "btnBackspace";
+            this.btnBackspace.Size = new System.Drawing.Size(57, 42);
+            this.btnBackspace.TabIndex = 23;
+            this.btnBackspace.Text = "Back";
+            this.btnBackspace.UseVisualStyleBackColor = false;
+            this.btnBackspace.Click += new System.EventHandler(this.btnBackspace_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkOrchid;
-            this.ClientSize = new System.Drawing.Size(277, 331);
+            this.BackgroundImage = global::Shiro_s_Calculator.Properties.Resources.Background1;
+            this.ClientSize = new System.Drawing.Size(284, 331);
+            this.Controls.Add(this.btnBackspace);
             this.Controls.Add(this.txtResults);
             this.Controls.Add(this.lblFocus);
             this.Controls.Add(this.txtDisplay);
@@ -381,7 +388,6 @@
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnRightPar);
             this.Controls.Add(this.btnLeftPar);
-            this.Controls.Add(this.btnEquals);
             this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnDot);
             this.Controls.Add(this.btnZero);
@@ -399,10 +405,11 @@
             this.Controls.Add(this.btnOne);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Calculator";
+            this.Text = "Simple Calc";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -426,7 +433,6 @@
         private System.Windows.Forms.Button btnZero;
         private System.Windows.Forms.Button btnDot;
         private System.Windows.Forms.Button btnClear;
-        private System.Windows.Forms.Button btnEquals;
         private System.Windows.Forms.Button btnLeftPar;
         private System.Windows.Forms.Button btnRightPar;
         private System.Windows.Forms.Button btnAdd;
@@ -434,6 +440,7 @@
         private System.Windows.Forms.TextBox txtDisplay;
         private System.Windows.Forms.Label lblFocus;
         private System.Windows.Forms.TextBox txtResults;
+        private System.Windows.Forms.Button btnBackspace;
     }
 }
 
