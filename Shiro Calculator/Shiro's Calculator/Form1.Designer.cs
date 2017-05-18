@@ -47,7 +47,6 @@
             this.btnLeftPar = new System.Windows.Forms.Button();
             this.btnRightPar = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
-            this.btnNegative = new System.Windows.Forms.Button();
             this.txtDisplay = new System.Windows.Forms.TextBox();
             this.lblFocus = new System.Windows.Forms.Label();
             this.txtResults = new System.Windows.Forms.TextBox();
@@ -233,7 +232,7 @@
             this.btnZero.ForeColor = System.Drawing.Color.White;
             this.btnZero.Location = new System.Drawing.Point(81, 281);
             this.btnZero.Name = "btnZero";
-            this.btnZero.Size = new System.Drawing.Size(62, 42);
+            this.btnZero.Size = new System.Drawing.Size(130, 42);
             this.btnZero.TabIndex = 12;
             this.btnZero.Text = "0";
             this.btnZero.UseVisualStyleBackColor = false;
@@ -313,19 +312,6 @@
             this.btnAdd.UseVisualStyleBackColor = false;
             this.btnAdd.Click += new System.EventHandler(this.btn_click);
             // 
-            // btnNegative
-            // 
-            this.btnNegative.AutoSize = true;
-            this.btnNegative.BackColor = System.Drawing.Color.DarkViolet;
-            this.btnNegative.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnNegative.ForeColor = System.Drawing.Color.White;
-            this.btnNegative.Location = new System.Drawing.Point(149, 281);
-            this.btnNegative.Name = "btnNegative";
-            this.btnNegative.Size = new System.Drawing.Size(62, 42);
-            this.btnNegative.TabIndex = 19;
-            this.btnNegative.Text = "Neg";
-            this.btnNegative.UseVisualStyleBackColor = false;
-            // 
             // txtDisplay
             // 
             this.txtDisplay.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -383,7 +369,6 @@
             this.Controls.Add(this.txtResults);
             this.Controls.Add(this.lblFocus);
             this.Controls.Add(this.txtDisplay);
-            this.Controls.Add(this.btnNegative);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.btnRightPar);
             this.Controls.Add(this.btnLeftPar);
@@ -436,7 +421,6 @@
         private System.Windows.Forms.Button btnLeftPar;
         private System.Windows.Forms.Button btnRightPar;
         private System.Windows.Forms.Button btnAdd;
-        private System.Windows.Forms.Button btnNegative;
         private System.Windows.Forms.TextBox txtDisplay;
         private System.Windows.Forms.Label lblFocus;
         private System.Windows.Forms.TextBox txtResults;
