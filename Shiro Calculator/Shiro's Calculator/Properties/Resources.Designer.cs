@@ -81,6 +81,16 @@ namespace Shiro_s_Calculator.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Touka_Blushing {
+            get {
+                object obj = ResourceManager.GetObject("Touka_Blushing", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
         internal static System.Drawing.Icon touka1_YD2_icon {

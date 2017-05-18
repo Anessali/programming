@@ -16,3 +16,12 @@ E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calcula
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.csproj.GenerateResource.Cache
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.exe
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.pdb
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Core.dll
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Platform.dll
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Core.pdb
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Core.xml
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.MessageBaka.resources

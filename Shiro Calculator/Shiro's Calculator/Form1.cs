@@ -15,7 +15,9 @@ namespace Shiro_s_Calculator
         //public variables
         char num;
         string formula;
-        int count = -1; //tracks string size
+        int count = -1; //tracks string size - must start at -1
+        double display; //for TryParse
+        
         public Form1()
         {
             InitializeComponent();
@@ -26,13 +28,12 @@ namespace Shiro_s_Calculator
         }//sets txtDisplay to formula
         private void BakaHentai()
         {
-            MessageBox.Show("Are you a baka hentai?", "B-baka...",
-                        MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            MessageBaka touka = new MessageBaka();
+            touka.Show();
+            //MessageBox.Show("Are you a baka hentai?", "B-baka...",
+            //            MessageBoxButtons.YesNo, MessageBoxIcon.Question);
         }
-        /// <summary>
-        /// Below are Windows Forms 
-        /// generated modules
-        /// </summary>
+        #region Visual Studio generated modules
         private void Form1_Load(object sender, EventArgs e)
         {
             //txtDisplay.SelectionStart()
@@ -59,28 +60,37 @@ namespace Shiro_s_Calculator
         }
         private void btnBackspace_Click(object sender, EventArgs e)
         {
-            formula = formula.Remove(count, 1);
-            count -= 1;
-            Display();
+            try
+            {
+                formula = formula.Remove(count, 1);
+                count -= 1;
+                Display();
+            }
+            catch (NullReferenceException)
+            {
+                //count = -1;
+            }
+            catch (ArgumentOutOfRangeException)
+            {
+                txtResults.Text = "No numbers to remove";
+            }
         }//removes a character from display
         private void txtDisplay_TextChanged(object sender, EventArgs e)
         {
             try
             {
+                txtResults.Text = txtDisplay.Text;
                 if (txtDisplay.Text == "69")
                 {
                     BakaHentai();
                 }
-                else {
-                    double display;
-                    double.TryParse(txtDisplay.Text, out display);
-                    txtResults.Text = display.ToString();
-                }
+                double.TryParse(txtDisplay.Text, out display);
             }
             catch
             {
 
             }
         }//controls displayed formulas
+        #endregion
     }
 }
