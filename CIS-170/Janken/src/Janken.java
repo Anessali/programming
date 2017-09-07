@@ -41,7 +41,11 @@ public class Janken {
         * 2 = paper
         * */
         if (compNum == userNum) {
-            System.out.print(cNum + uNum + "It's a tie");
+			if(compNum == 0 && userNum == 0){
+				System.out.print(cNum + uNum + "You're scissoring");
+			} else {
+				System.out.print(cNum + uNum + "It's a tie");
+			}
         }
         else if(compNum == 0 && userNum == 1){
             System.out.print(cNum + uNum + "You won");

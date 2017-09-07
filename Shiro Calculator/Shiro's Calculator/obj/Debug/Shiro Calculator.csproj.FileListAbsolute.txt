@@ -26,3 +26,6 @@ E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.X
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.MessageBaka.resources
 E:\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\NCalc.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.pdb
