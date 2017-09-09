@@ -1,0 +1,9 @@
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\bin\Debug\ClassPlayground.exe.config
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\bin\Debug\ClassPlayground.exe
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\bin\Debug\ClassPlayground.pdb
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.csprojResolveAssemblyReference.cache
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.Form1.resources
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.Properties.Resources.resources
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.csproj.GenerateResource.Cache
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.exe
+E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.pdb
