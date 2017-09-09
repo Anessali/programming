@@ -34,6 +34,22 @@ public class inclass {
         int decLetter = (int) 'A';
         System.out.println("Decimal value is " + decLetter);
         
+        //Let's convert that letter to its opposite case
+        String userPhrase = "My dog stinks";
+        char firstLetter = userPhrase.charAt(0);
+        System.out.println("The first letter is " + firstLetter);
+        
+        int charLetter = (int) firstLetter;
+        System.out.println("The decimal value of " + firstLetter + " is: " + charLetter);
+        
+        int toggleCharacter;
+        if (charLetter >= 65 && charLetter <= 90){//uppercase
+            toggleCharacter = firstLetter + 32;
+        } else {
+            toggleCharacter = firstLetter - 32;
+        }
+        
+        System.out.println((char)toggleCharacter);
         
     }
 }

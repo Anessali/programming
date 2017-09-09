@@ -7,3 +7,6 @@ E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.
 E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.csproj.GenerateResource.Cache
 E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.exe
 E:\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ClassPlayground\ClassPlayground\bin\Debug\ClassPlayground.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ClassPlayground\ClassPlayground\obj\Debug\ClassPlayground.pdb
