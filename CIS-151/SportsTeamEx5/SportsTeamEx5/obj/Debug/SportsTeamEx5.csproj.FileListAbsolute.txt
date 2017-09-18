@@ -14,3 +14,11 @@ E:\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\SportsTeamEx5.e
 E:\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\SportsTeamEx5.pdb
 E:\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\Team.dll
 E:\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\Team.pdb
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\SportsTeamEx5.exe.config
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\obj\Debug\SportsTeamEx5.exe
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\obj\Debug\SportsTeamEx5.pdb
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\SportsTeamEx5.exe
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\SportsTeamEx5.pdb
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\Team.dll
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\bin\Debug\Team.pdb
+H:\CIS\GIT\programming\CIS-151\SportsTeamEx5\SportsTeamEx5\obj\Debug\SportsTeamEx5.csprojResolveAssemblyReference.cache
