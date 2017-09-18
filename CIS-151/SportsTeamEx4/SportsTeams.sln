@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsTeams", "..\zOld\SportsTeamEx4\SportsTeamEx4\SportsTeams.csproj", "{44C5B1EA-EC36-47F9-8C35-401890D75FE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team", "SportsTeamEx4\Team.csproj", "{44C5B1EA-EC36-47F9-8C35-401890D75FE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,14 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/tl0464984
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SportsTeamEx4\\Team.csproj
+		SccProjectName1 = SportsTeamEx4
+		SccLocalPath1 = SportsTeamEx4
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,10 @@
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.pdb
