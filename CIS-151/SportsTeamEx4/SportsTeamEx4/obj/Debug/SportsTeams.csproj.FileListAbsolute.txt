@@ -1,0 +1,10 @@
+E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\bin\Debug\SportsTeams.dll
+E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\bin\Debug\SportsTeams.pdb
+E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\SportsTeams.csprojResolveAssemblyReference.cache
+E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\SportsTeams.dll
+E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\SportsTeams.pdb
+E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.dll
+E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.pdb
+E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\SportsTeams.csprojResolveAssemblyReference.cache
+E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.dll
+E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.pdb

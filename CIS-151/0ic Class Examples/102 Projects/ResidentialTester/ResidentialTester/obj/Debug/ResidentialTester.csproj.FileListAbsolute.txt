@@ -1,0 +1,6 @@
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialTester\ResidentialTester\bin\Debug\ResidentialTester.exe.config
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialTester\ResidentialTester\bin\Debug\ResidentialTester.exe.config
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialTester\ResidentialTester\obj\Debug\ResidentialTester.csprojResolveAssemblyReference.cache
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialTester\ResidentialTester\obj\Debug\ResidentialTester.Form1.resources
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialTester\ResidentialTester\obj\Debug\ResidentialTester.Properties.Resources.resources
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialTester\ResidentialTester\obj\Debug\ResidentialTester.csproj.GenerateResource.Cache

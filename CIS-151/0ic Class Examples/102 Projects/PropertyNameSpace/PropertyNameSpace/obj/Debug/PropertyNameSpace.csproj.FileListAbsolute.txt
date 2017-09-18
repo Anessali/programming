@@ -1,0 +1,4 @@
+E:\School\CIS-151\CIS151-Practice\102 Projects\PropertyNameSpace\PropertyNameSpace\bin\Debug\PropertyNameSpace.dll
+E:\School\CIS-151\CIS151-Practice\102 Projects\PropertyNameSpace\PropertyNameSpace\bin\Debug\PropertyNameSpace.pdb
+E:\School\CIS-151\CIS151-Practice\102 Projects\PropertyNameSpace\PropertyNameSpace\obj\Debug\PropertyNameSpace.dll
+E:\School\CIS-151\CIS151-Practice\102 Projects\PropertyNameSpace\PropertyNameSpace\obj\Debug\PropertyNameSpace.pdb

@@ -1,0 +1,12 @@
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\bin\Debug\Ch11EmployeeClass.exe.config
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.csprojResolveAssemblyReference.cache
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.Form1.resources
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.Properties.Resources.resources
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.csproj.GenerateResource.Cache
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\bin\Debug\Ch11EmployeeClass.exe
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\bin\Debug\Ch11EmployeeClass.pdb
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.exe
+E:\School\CIS-151\CIS151-Assignments\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.pdb
+E:\GIT\programming\CIS-151\3EmployeePart1\Ch11EmployeeClass\bin\Debug\Ch11EmployeeClass.exe.config
+E:\GIT\programming\CIS-151\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.exe
+E:\GIT\programming\CIS-151\3EmployeePart1\Ch11EmployeeClass\obj\Debug\Ch11EmployeeClass.pdb

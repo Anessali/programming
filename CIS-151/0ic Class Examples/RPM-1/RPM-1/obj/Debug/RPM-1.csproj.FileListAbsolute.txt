@@ -1,0 +1,10 @@
+E:\School\CIS-151\CIS151-Practice\RPM-1\RPM-1\bin\Debug\RPM-1.exe.config
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\bin\Debug\RPM-1.exe.config
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\bin\Debug\RPM-1.exe
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\bin\Debug\RPM-1.pdb
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\obj\Debug\RPM-1.csprojResolveAssemblyReference.cache
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\obj\Debug\RPM_1.frmProperty.resources
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\obj\Debug\RPM_1.Properties.Resources.resources
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\obj\Debug\RPM-1.csproj.GenerateResource.Cache
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\obj\Debug\RPM-1.exe
+E:\GIT\programming\CIS-151\0ic Class Examples\RPM-1\RPM-1\obj\Debug\RPM-1.pdb

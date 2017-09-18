@@ -1,0 +1,14 @@
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\ResidentialNameSpace.dll
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\ResidentialNameSpace.pdb
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\PropertyNameSpace.dll
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\PropertyNameSpace.pdb
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialNameSpace\ResidentialNameSpace\obj\Debug\ResidentialNameSpace.csprojResolveAssemblyReference.cache
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialNameSpace\ResidentialNameSpace\obj\Debug\ResidentialNameSpace.dll
+E:\School\CIS-151\CIS151-Practice\102 Projects\ResidentialNameSpace\ResidentialNameSpace\obj\Debug\ResidentialNameSpace.pdb
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\ResidentialNameSpace.dll
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\ResidentialNameSpace.pdb
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\PropertyNameSpace.dll
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialNameSpace\ResidentialNameSpace\bin\Debug\PropertyNameSpace.pdb
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialNameSpace\ResidentialNameSpace\obj\Debug\ResidentialNameSpace.csprojResolveAssemblyReference.cache
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialNameSpace\ResidentialNameSpace\obj\Debug\ResidentialNameSpace.dll
+E:\GIT\programming\CIS-151\0ic Class Examples\102 Projects\ResidentialNameSpace\ResidentialNameSpace\obj\Debug\ResidentialNameSpace.pdb
