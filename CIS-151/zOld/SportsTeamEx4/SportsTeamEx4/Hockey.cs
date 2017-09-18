@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SportsTeams
 {
-    class Hockey : Team
+    public class Hockey : Team
     {
         private string rinkLocation;
         private int numOfPlayers;

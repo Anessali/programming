@@ -17,9 +17,9 @@ namespace SportsTeamEx5
 
         static void Main(string[] args)
         {
-           
-        Console.WriteLine("test works"); 
-        Console.Read(); //keeps console window open
+            Hockey hockeyTeam = new Hockey("hockey", "Jack Jacobs", "The Losers", "Finland", 27);
+            Console.WriteLine(hockeyTeam); 
+            Console.Read(); //keeps console window open
         }
    
     }

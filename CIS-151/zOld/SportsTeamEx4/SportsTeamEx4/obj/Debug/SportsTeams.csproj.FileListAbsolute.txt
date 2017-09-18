@@ -8,3 +8,8 @@ E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.pdb
 E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\SportsTeams.csprojResolveAssemblyReference.cache
 E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.dll
 E:\GIT\programming\CIS-151\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.pdb
+E:\GIT\programming\CIS-151\zOld\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.dll
+E:\GIT\programming\CIS-151\zOld\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.pdb
+E:\GIT\programming\CIS-151\zOld\SportsTeamEx4\SportsTeamEx4\obj\Debug\SportsTeams.csprojResolveAssemblyReference.cache
+E:\GIT\programming\CIS-151\zOld\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.dll
+E:\GIT\programming\CIS-151\zOld\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.pdb
