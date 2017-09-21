@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Hockey.cs" />
+    <Compile Include="IBudget.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Soccer.cs" />
     <Compile Include="Team.cs" />

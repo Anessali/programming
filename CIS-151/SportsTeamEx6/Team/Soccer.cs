@@ -23,7 +23,17 @@ namespace SportsTeams
         {
             return numOfPlayers;
         }
-         
+
+        public double TeamBudget()
+        {
+            double totalFunds;
+            double funding = 1000000;
+            double cleaning = 1000;
+            totalFunds = funding - cleaning;
+            return totalFunds;
+
+        }
+
         //string override
         public override string ToString()
         {

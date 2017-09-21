@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SportsTeams
+namespace IBudget.cs
 {
-    public interface IBudget
+    class Program
     {
-
+        static void Main(string[] args)
+        {
+        }
     }
 }

@@ -20,8 +20,13 @@ namespace SportsTeamEx5
             //Subclasses referenced from the team dll
             Hockey hockeyTeam = new Hockey("hockey", "Jack Jacobs", "The Losers", "Finland", 27);
             Soccer newTeam = new Soccer("soccer", "Jordan Gilmore", "The Bowies", "Red", 20);
+            //prints subclasses ToString()'s to console
             Console.WriteLine(hockeyTeam);
+            Console.WriteLine("$" + hockeyTeam.TeamBudget());
             Console.WriteLine(newTeam);
+            Console.WriteLine("$" + newTeam.TeamBudget());
+            //prints interface value
+
             Console.Read(); //keeps console window open
         }
    
