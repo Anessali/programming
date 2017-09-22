@@ -1,4 +1,0 @@
-\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx6\Team\bin\Debug\Team.dll
-\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx6\Team\bin\Debug\Team.pdb
-\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx6\Team\obj\Debug\Team.dll
-\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\SportsTeamEx6\Team\obj\Debug\Team.pdb

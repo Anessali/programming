@@ -1,5 +1,0 @@
-E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.csprojResolveAssemblyReference.cache
-E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.dll
-E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\bin\Debug\Team.pdb
-E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.dll
-E:\School\CIS-151\CIS151-Assignments\SportsTeamEx4\SportsTeamEx4\obj\Debug\Team.pdb
