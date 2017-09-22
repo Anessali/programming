@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\File Stream\File Stream\bin\Debug\File Stream.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\bin\Debug\File Stream.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\bin\Debug\File Stream.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\obj\Debug\File Stream.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\obj\Debug\File_Stream.Form1.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\obj\Debug\File_Stream.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\obj\Debug\File Stream.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\obj\Debug\File Stream.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\Visual Studio 2015\Projects\File Stream\File Stream\obj\Debug\File Stream.pdb

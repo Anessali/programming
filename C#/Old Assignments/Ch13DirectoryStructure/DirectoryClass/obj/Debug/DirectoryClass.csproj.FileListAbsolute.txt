@@ -1,0 +1,5 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\DirectoryClass\bin\Debug\DirectoryClass.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\DirectoryClass\bin\Debug\DirectoryClass.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\DirectoryClass\bin\Debug\DirectoryClass.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\DirectoryClass\obj\Debug\DirectoryClass.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\DirectoryClass\obj\Debug\DirectoryClass.pdb

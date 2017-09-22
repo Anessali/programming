@@ -1,0 +1,8 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\bin\Debug\imagelist102.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\bin\Debug\imagelist102.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\bin\Debug\imagelist102.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\obj\Debug\imagelist102.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\obj\Debug\imagelist102.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\obj\Debug\imagelist102.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\obj\Debug\imagelist102.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\imagelist102\imagelist102\obj\Debug\imagelist102.pdb

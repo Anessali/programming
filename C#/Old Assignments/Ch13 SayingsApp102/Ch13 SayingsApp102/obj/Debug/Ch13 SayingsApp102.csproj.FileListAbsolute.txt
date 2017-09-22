@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\bin\Debug\Ch13 SayingsApp102.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\bin\Debug\Ch13 SayingsApp102.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\bin\Debug\Ch13 SayingsApp102.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\obj\Debug\Ch13 SayingsApp102.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\obj\Debug\Ch13_SayingsApp102.frmSayingsGUI.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\obj\Debug\Ch13_SayingsApp102.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\obj\Debug\Ch13 SayingsApp102.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\obj\Debug\Ch13 SayingsApp102.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13 SayingsApp102\Ch13 SayingsApp102\obj\Debug\Ch13 SayingsApp102.pdb

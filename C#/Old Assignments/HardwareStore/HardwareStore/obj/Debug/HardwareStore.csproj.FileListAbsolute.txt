@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\bin\Debug\HardwareStore.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\bin\Debug\HardwareStore.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\bin\Debug\HardwareStore.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\HardwareStore\HardwareStore\obj\Debug\HardwareStore.pdb

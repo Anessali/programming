@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\bin\Debug\Hot and Cold Game.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\bin\Debug\Hot and Cold Game.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\bin\Debug\Hot and Cold Game.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\obj\Debug\Hot and Cold Game.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\obj\Debug\Hot_and_Cold_Game.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\obj\Debug\Hot_and_Cold_Game.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\obj\Debug\Hot and Cold Game.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\obj\Debug\Hot and Cold Game.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Hot and Cold Game\Hot and Cold Game\obj\Debug\Hot and Cold Game.pdb

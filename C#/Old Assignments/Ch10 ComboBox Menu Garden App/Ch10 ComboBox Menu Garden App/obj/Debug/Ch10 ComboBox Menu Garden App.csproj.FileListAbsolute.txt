@@ -1,0 +1,8 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\bin\Debug\Ch10 ComboBox Menu Garden App.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\bin\Debug\Ch10 ComboBox Menu Garden App.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\bin\Debug\Ch10 ComboBox Menu Garden App.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\obj\Debug\Ch10_ComboBox_Menu_Garden_App.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\obj\Debug\Ch10_ComboBox_Menu_Garden_App.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\obj\Debug\Ch10 ComboBox Menu Garden App.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\obj\Debug\Ch10 ComboBox Menu Garden App.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch10 ComboBox Menu Garden App\Ch10 ComboBox Menu Garden App\obj\Debug\Ch10 ComboBox Menu Garden App.pdb

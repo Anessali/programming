@@ -1,1 +1,6 @@
 E:\GIT\programming\CIS-151\Exam1\Exam1\bin\Debug\Exam1.exe.config
+E:\GIT\programming\CIS-151\Exam1\Exam1\bin\Debug\Exam1.exe
+E:\GIT\programming\CIS-151\Exam1\Exam1\bin\Debug\Exam1.pdb
+E:\GIT\programming\CIS-151\Exam1\Exam1\obj\Debug\Exam1.csprojResolveAssemblyReference.cache
+E:\GIT\programming\CIS-151\Exam1\Exam1\obj\Debug\Exam1.exe
+E:\GIT\programming\CIS-151\Exam1\Exam1\obj\Debug\Exam1.pdb

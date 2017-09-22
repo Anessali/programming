@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\bin\Debug\Proj7SurveyForm.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\bin\Debug\Proj7SurveyForm.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\bin\Debug\Proj7SurveyForm.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\obj\Debug\Proj7SurveyForm.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\obj\Debug\Proj7SurveyForm.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\obj\Debug\Proj7SurveyForm.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\obj\Debug\Proj7SurveyForm.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\obj\Debug\Proj7SurveyForm.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj7SurveyForm\Proj7SurveyForm\obj\Debug\Proj7SurveyForm.pdb

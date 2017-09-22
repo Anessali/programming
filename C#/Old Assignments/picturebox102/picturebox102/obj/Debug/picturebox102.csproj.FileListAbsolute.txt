@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\bin\Debug\picturebox102.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\bin\Debug\picturebox102.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\bin\Debug\picturebox102.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\obj\Debug\picturebox102.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\obj\Debug\picturebox102.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\obj\Debug\picturebox102.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\obj\Debug\picturebox102.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\obj\Debug\picturebox102.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\picturebox102\picturebox102\obj\Debug\picturebox102.pdb

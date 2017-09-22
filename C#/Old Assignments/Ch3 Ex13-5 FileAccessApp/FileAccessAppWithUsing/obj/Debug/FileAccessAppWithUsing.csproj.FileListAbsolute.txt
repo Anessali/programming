@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\bin\Debug\FileAccessAppWithUsing.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\bin\Debug\FileAccessAppWithUsing.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\bin\Debug\FileAccessAppWithUsing.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\obj\Debug\FileAccessAppWithUsing.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\obj\Debug\FileAccessAppWithUsing.frmUsingGUI.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\obj\Debug\FileAccessAppWithUsing.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\obj\Debug\FileAccessAppWithUsing.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\obj\Debug\FileAccessAppWithUsing.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\FileAccessAppWithUsing\obj\Debug\FileAccessAppWithUsing.pdb

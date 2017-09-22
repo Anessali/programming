@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\bin\Debug\Proj8TempConversation.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\bin\Debug\Proj8TempConversation.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\bin\Debug\Proj8TempConversation.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\obj\Debug\Proj8TempConversation.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\obj\Debug\Proj8TempConversation.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\obj\Debug\Proj8TempConversation.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\obj\Debug\Proj8TempConversation.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\obj\Debug\Proj8TempConversation.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj8TempConversation\Proj8TempConversation\obj\Debug\Proj8TempConversation.pdb

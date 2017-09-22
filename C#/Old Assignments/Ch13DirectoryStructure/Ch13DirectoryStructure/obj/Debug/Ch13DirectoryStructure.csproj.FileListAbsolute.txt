@@ -1,0 +1,6 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\Ch13DirectoryStructure\bin\Debug\Ch13DirectoryStructure.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\Ch13DirectoryStructure\bin\Debug\Ch13DirectoryStructure.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\Ch13DirectoryStructure\bin\Debug\Ch13DirectoryStructure.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\Ch13DirectoryStructure\obj\Debug\Ch13DirectoryStructure.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\Ch13DirectoryStructure\obj\Debug\Ch13DirectoryStructure.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch13DirectoryStructure\Ch13DirectoryStructure\obj\Debug\Ch13DirectoryStructure.pdb

@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\bin\Debug\KrustyKrabShack.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\bin\Debug\KrustyKrabShack.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\bin\Debug\KrustyKrabShack.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\obj\Debug\KrustyKrabShack.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\obj\Debug\KrustyKrabShack.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\obj\Debug\KrustyKrabShack.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\obj\Debug\KrustyKrabShack.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\obj\Debug\KrustyKrabShack.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\KrustyKrabShack\KrustyKrabShack\obj\Debug\KrustyKrabShack.pdb

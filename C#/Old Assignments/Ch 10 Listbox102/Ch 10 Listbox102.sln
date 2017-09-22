@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch 10 Listbox102", "Ch 10 Listbox102\Ch 10 Listbox102.csproj", "{DA2AA72C-BB9E-4E14-8FC5-13EEF33FBF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2AA72C-BB9E-4E14-8FC5-13EEF33FBF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2AA72C-BB9E-4E14-8FC5-13EEF33FBF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2AA72C-BB9E-4E14-8FC5-13EEF33FBF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2AA72C-BB9E-4E14-8FC5-13EEF33FBF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cisteam.otc.edu:8080/tfs/tl0464984
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ch\u002010\u0020Listbox102\\Ch\u002010\u0020Listbox102.csproj
+		SccProjectName1 = Ch\u002010\u0020Listbox102
+		SccLocalPath1 = Ch\u002010\u0020Listbox102
+	EndGlobalSection
+EndGlobal

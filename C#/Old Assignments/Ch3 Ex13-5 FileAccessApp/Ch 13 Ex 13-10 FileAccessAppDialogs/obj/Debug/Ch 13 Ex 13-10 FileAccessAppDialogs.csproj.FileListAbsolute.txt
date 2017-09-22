@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\bin\Debug\Ch 13 Ex 13-10 FileAccessAppDialogs.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\bin\Debug\Ch 13 Ex 13-10 FileAccessAppDialogs.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\bin\Debug\Ch 13 Ex 13-10 FileAccessAppDialogs.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\obj\Debug\Ch 13 Ex 13-10 FileAccessAppDialogs.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\obj\Debug\Ch_13_Ex_13_10_FileAccessAppDialogs.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\obj\Debug\Ch_13_Ex_13_10_FileAccessAppDialogs.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\obj\Debug\Ch 13 Ex 13-10 FileAccessAppDialogs.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\obj\Debug\Ch 13 Ex 13-10 FileAccessAppDialogs.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch 13 Ex 13-10 FileAccessAppDialogs\obj\Debug\Ch 13 Ex 13-10 FileAccessAppDialogs.pdb

@@ -1,0 +1,4 @@
+﻿1010,Hannah's Oatmeal,15,7.99
+1020,Fried Sponge,35,4.99
+1030,Mr. Krab's Legs,2,24.99
+1040,Squirrel on a Stick,7,74.98

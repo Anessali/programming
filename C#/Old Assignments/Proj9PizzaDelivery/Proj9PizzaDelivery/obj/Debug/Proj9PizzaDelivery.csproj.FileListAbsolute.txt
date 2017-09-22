@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\bin\Debug\Proj9PizzaDelivery.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\bin\Debug\Proj9PizzaDelivery.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\bin\Debug\Proj9PizzaDelivery.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.Form1.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Proj9PizzaDelivery\Proj9PizzaDelivery\obj\Debug\Proj9PizzaDelivery.pdb

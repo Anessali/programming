@@ -1,0 +1,6 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
