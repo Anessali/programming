@@ -57,6 +57,7 @@ namespace Exam1
         public override string ToString()
         {
             return "Due date: " + CalculateDueDate() 
+                + "\nInterest gained: " + CalculateInterest()
                 + "\nTotal owed: " + CalculatePayment()
                 ;
         }
