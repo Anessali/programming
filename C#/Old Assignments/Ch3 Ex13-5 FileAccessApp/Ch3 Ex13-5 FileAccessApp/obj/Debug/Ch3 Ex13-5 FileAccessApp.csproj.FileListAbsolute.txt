@@ -7,3 +7,6 @@
 \\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch3 Ex13-5 FileAccessApp\obj\Debug\Ch3 Ex13-5 FileAccessApp.csproj.GenerateResource.Cache
 \\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch3 Ex13-5 FileAccessApp\obj\Debug\Ch3 Ex13-5 FileAccessApp.exe
 \\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\Ch3 Ex13-5 FileAccessApp\Ch3 Ex13-5 FileAccessApp\obj\Debug\Ch3 Ex13-5 FileAccessApp.pdb
+E:\GIT\programming\C#\Old Assignments\Ch3 Ex13-5 FileAccessApp\Ch3 Ex13-5 FileAccessApp\bin\Debug\Ch3 Ex13-5 FileAccessApp.exe.config
+E:\GIT\programming\C#\Old Assignments\Ch3 Ex13-5 FileAccessApp\Ch3 Ex13-5 FileAccessApp\obj\Debug\Ch3 Ex13-5 FileAccessApp.exe
+E:\GIT\programming\C#\Old Assignments\Ch3 Ex13-5 FileAccessApp\Ch3 Ex13-5 FileAccessApp\obj\Debug\Ch3 Ex13-5 FileAccessApp.pdb

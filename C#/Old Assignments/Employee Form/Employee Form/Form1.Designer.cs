@@ -184,7 +184,6 @@
             // saveButton
             // 
             this.saveButton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.saveButton.Image = global::Employee_Form.Properties.Resources.Save;
             this.saveButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(23, 22);
@@ -194,7 +193,6 @@
             // editEmployeeBtn
             // 
             this.editEmployeeBtn.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.editEmployeeBtn.Image = global::Employee_Form.Properties.Resources.ConfigurationEditor_32x;
             this.editEmployeeBtn.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.editEmployeeBtn.Name = "editEmployeeBtn";
             this.editEmployeeBtn.Size = new System.Drawing.Size(23, 22);
@@ -204,7 +202,6 @@
             // deleteButton
             // 
             this.deleteButton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.deleteButton.Image = global::Employee_Form.Properties.Resources.icon_delete_small;
             this.deleteButton.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.deleteButton.Name = "deleteButton";
             this.deleteButton.Size = new System.Drawing.Size(23, 22);

@@ -9,7 +9,6 @@ namespace Exam1
     class Loan
     {
         //declared global variables
-        protected string clientName;
         protected int loanID;
         protected DateTime dueDate;
         protected decimal balance;
@@ -37,7 +36,7 @@ namespace Exam1
             return nextPayment;
         }
         /// <summary>
-        /// 
+        /// Calculates amount of interest
         /// </summary>
         /// <returns></returns>
         public decimal CalculateInterest()
@@ -57,9 +56,9 @@ namespace Exam1
 
         public override string ToString()
         {
-            return "As of " + CalculateDueDate() + ",\n" +
-                clientName + " will owe $" + CalculatePayment()
-                + ".";
+            return "Due date: " + CalculateDueDate() 
+                + "\nTotal owed: " + CalculatePayment()
+                ;
         }
         #region getters/setters
         public int LoanID
