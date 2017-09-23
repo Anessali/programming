@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Exam1
 {
-    class Loan
+    //class set to abstract so it cannot be instantiated
+    abstract class Loan
     {
         //declared global variables
         protected int loanID;
@@ -47,7 +48,7 @@ namespace Exam1
         /// <summary>
         /// Calculates amount due at end of month
         /// </summary>
-        public decimal CalculatePayment()
+        virtual public decimal CalculatePayment()
         {
             decimal monthlyRate = CalculateInterest();
             decimal paymentAmount = balance + monthlyRate;
