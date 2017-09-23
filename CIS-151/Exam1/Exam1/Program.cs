@@ -30,24 +30,27 @@ namespace Exam1
             balance = Convert.ToDecimal(ReadLine());
             Write("Enter interest rate: ");
             interest = Convert.ToDecimal(ReadLine());
-
-            choice = ConsoleMenu();
             while (lever) {//user stuck in loop until they choose valid choice
                 //displays console menu
                 choice = ConsoleMenu();
-                
                 if (choice == '1')
                 {
-                    AutoLoan(id, today, balance, interest);
                     lever = false;
+                    AutoLoan(id, today, balance, interest);
+                    break;
                 }
                 if (choice == '2')
                 {
                     lever = false;
+                    Mortgage(id, today, balance, interest);
+                    break;
                 }
                 if (choice == '3')
                 {
                     lever = false;
+                    PersonalLoan newClient = new PersonalLoan(id, today, balance, interest, 0);
+                    WriteLine(newClient.ToString());
+                    break;
                 }
                 else
                 {
@@ -92,18 +95,22 @@ namespace Exam1
             Mortgage newClient = new Mortgage(downPayment, propertyValue,  id, today, balance, interest, 0);
             WriteLine(newClient.ToString());
         }
-
         /* -------------------------*     
          *       Console Menu       *
          * -------------------------*/
         public static char ConsoleMenu()
         {
-            Console.WriteLine("Select the loan type");
-            Console.WriteLine("\t1 - Auto Loan");
-            Console.WriteLine("\t2 - Mortgage");
-            Console.WriteLine("\t3 - Personal Loan");
-            char choice = Console.ReadKey().KeyChar;
-            Console.WriteLine();
+            WriteLine("Select the loan type");
+            WriteLine("\t1 - Auto Loan");
+            WriteLine("\t2 - Mortgage");
+            WriteLine("\t3 - Personal Loan");
+            char choice = ReadKey().KeyChar;
+            WriteLine();
+            for(int x = 1; x <= 3; x++)
+            {
+                WriteLine(".");
+            }
+            WriteLine();
             return choice;
         }
         #endregion

@@ -27,6 +27,13 @@ namespace Exam1
             decimal paymentAmount = balance + monthlyRate - downPayment;
             return paymentAmount;
         }
+        public override string ToString()
+        {
+            return "Due date: " + CalculateDueDate() 
+                + "\nInterest gained: " + CalculateInterest()
+                + "\nTotal owed: " + CalculatePayment()
+                ;
+        }
         public decimal DownPayment { get; set; }
     }
 }

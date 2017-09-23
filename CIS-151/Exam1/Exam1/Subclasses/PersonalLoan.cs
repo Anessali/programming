@@ -14,5 +14,11 @@ namespace Exam1
         {
 
         }
+        public override decimal CalculatePayment()
+        {
+            decimal monthlyRate = CalculateInterest();
+            decimal paymentAmount = balance + monthlyRate;
+            return paymentAmount;
+        }
     }
 }
