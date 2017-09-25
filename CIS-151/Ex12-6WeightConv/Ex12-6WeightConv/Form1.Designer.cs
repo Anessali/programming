@@ -32,15 +32,15 @@
             this.txtTempIn = new System.Windows.Forms.TextBox();
             this.txtTempOut = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cboBxTwo = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.cbBox = new System.Windows.Forms.ComboBox();
+            this.cboBxOne = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(140, 143);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(112, 32);
             this.button1.TabIndex = 0;
@@ -72,19 +72,19 @@
             this.label1.TabIndex = 3;
             this.label1.Text = "Temperature";
             // 
-            // comboBox1
+            // cboBxTwo
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cboBxTwo.FormattingEnabled = true;
+            this.cboBxTwo.Items.AddRange(new object[] {
             "grams",
             "kilograms",
             "pounds",
             "ounces"});
-            this.comboBox1.Location = new System.Drawing.Point(239, 43);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 26);
-            this.comboBox1.TabIndex = 4;
-            this.comboBox1.Text = "ounces";
+            this.cboBxTwo.Location = new System.Drawing.Point(239, 43);
+            this.cboBxTwo.Name = "cboBxTwo";
+            this.cboBxTwo.Size = new System.Drawing.Size(121, 26);
+            this.cboBxTwo.TabIndex = 4;
+            this.cboBxTwo.Text = "ounces";
             // 
             // label2
             // 
@@ -96,34 +96,34 @@
             this.label2.Text = "To...";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
-            // cbBox
+            // cboBxOne
             // 
-            this.cbBox.FormattingEnabled = true;
-            this.cbBox.Items.AddRange(new object[] {
+            this.cboBxOne.FormattingEnabled = true;
+            this.cboBxOne.Items.AddRange(new object[] {
             "grams",
             "kilograms",
             "pounds",
             "ounces"});
-            this.cbBox.Location = new System.Drawing.Point(27, 43);
-            this.cbBox.Name = "cbBox";
-            this.cbBox.Size = new System.Drawing.Size(121, 26);
-            this.cbBox.TabIndex = 6;
-            this.cbBox.Text = "grams";
+            this.cboBxOne.Location = new System.Drawing.Point(27, 43);
+            this.cboBxOne.Name = "cboBxOne";
+            this.cboBxOne.Size = new System.Drawing.Size(121, 26);
+            this.cboBxOne.TabIndex = 6;
+            this.cboBxOne.Text = "grams";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(404, 274);
-            this.Controls.Add(this.cbBox);
+            this.Controls.Add(this.cboBxOne);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cboBxTwo);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtTempOut);
             this.Controls.Add(this.txtTempIn);
             this.Controls.Add(this.button1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -137,9 +137,9 @@
         private System.Windows.Forms.TextBox txtTempIn;
         private System.Windows.Forms.TextBox txtTempOut;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cboBxTwo;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ComboBox cbBox;
+        private System.Windows.Forms.ComboBox cboBxOne;
     }
 }
 
