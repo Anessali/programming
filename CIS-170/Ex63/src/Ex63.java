@@ -12,7 +12,7 @@ public class Ex63 {
     //should return the reverse of passed value
     public static int reverse(int number){
         boolean p;
-        int oldNum = number;
+        int oldNum = number; //old value saved to test palindrome
         int reverse = 0;
         while (number != 0){
             reverse = reverse * 10 + number % 10;
