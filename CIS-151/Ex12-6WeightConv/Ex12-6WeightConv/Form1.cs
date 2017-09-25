@@ -19,7 +19,6 @@ namespace Ex12_6WeightConv
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
             /*      Declared Variables      */
             double weight = Convert.ToDouble(txtTempIn.Text),
                 kilograms,
@@ -29,21 +28,22 @@ namespace Ex12_6WeightConv
             
             //passes value into method to convert to gram
             weight = ConvertToGrams(weight, weightBox);
-            
+
             //a new instance of WeightConverter class is made using variables with weight value
             kilograms = weight;
             pounds = weight;
-            ounces = weight;
+            ounces = weight; //values converted based on variable name
             WeightConverter converter = new WeightConverter(kilograms, pounds, ounces);
 
-            //outputs results
-            txtTempOut.Text = weight.ToString();
+            //outputs results based on converted values
+            kilograms = converter.ConvertToKilograms();
+            txtTempOut.Text = kilograms.ToString();
         }//closing method bracket
 
         public static double ConvertToGrams(double weight, string weightBox)
         {
             /* ********************************* *
-             *  All numbers  are set to grams    *
+             *  All numbers are set to grams     *
              *  for simple conversion.           *
              * ********************************* */
             if (weightBox == "grams")
@@ -67,5 +67,6 @@ namespace Ex12_6WeightConv
             }
             return weight;
         }//end of method
+        
     }
 }
