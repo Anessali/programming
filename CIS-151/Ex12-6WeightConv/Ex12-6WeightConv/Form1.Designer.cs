@@ -31,7 +31,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.txtTempIn = new System.Windows.Forms.TextBox();
             this.txtTempOut = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.cboBxTwo = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
             this.cboBxOne = new System.Windows.Forms.ComboBox();
@@ -46,6 +45,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Convert";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // txtTempIn
             // 
@@ -62,15 +62,6 @@
             this.txtTempOut.Size = new System.Drawing.Size(324, 24);
             this.txtTempOut.TabIndex = 2;
             this.txtTempOut.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(33, 103);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(92, 18);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Temperature";
             // 
             // cboBxTwo
             // 
@@ -118,14 +109,13 @@
             this.Controls.Add(this.cboBxOne);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cboBxTwo);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.txtTempOut);
             this.Controls.Add(this.txtTempIn);
             this.Controls.Add(this.button1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Weight Converter";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -136,7 +126,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox txtTempIn;
         private System.Windows.Forms.TextBox txtTempOut;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox cboBxTwo;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox cboBxOne;
