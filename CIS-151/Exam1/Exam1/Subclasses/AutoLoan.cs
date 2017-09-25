@@ -6,7 +6,34 @@ using System.Threading.Tasks;
 
 namespace Exam1
 {
-    class AutoLoan
+    class AutoLoan : Loan
     {
+        protected decimal downPayment;
+        public AutoLoan(decimal downPayment, int loanID, DateTime dueDate, decimal balance,
+            decimal interestRate, int monthTerms)
+            : base(loanID, dueDate, balance, interestRate, monthTerms)
+        {
+            this.downPayment = downPayment;
+        }
+
+        /// <summary>
+        /// Base method is overridden so down payment 
+        /// can be subtracted
+        /// </summary>
+        /// <returns></returns>
+        public override decimal CalculatePayment()
+        {
+            decimal monthlyRate = CalculateInterest();
+            decimal paymentAmount = balance + monthlyRate - downPayment;
+            return paymentAmount;
+        }
+        public override string ToString()
+        {
+            return "Due date: " + CalculateDueDate() 
+                + "\nInterest gained: " + CalculateInterest()
+                + "\nTotal owed: " + CalculatePayment()
+                ;
+        }
+        public decimal DownPayment { get; set; }
     }
 }
