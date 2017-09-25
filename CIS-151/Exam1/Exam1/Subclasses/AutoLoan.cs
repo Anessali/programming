@@ -24,7 +24,7 @@ namespace Exam1
         public override decimal CalculatePayment()
         {
             decimal monthlyRate = CalculateInterest();
-            decimal paymentAmount = balance + monthlyRate - downPayment;
+            decimal paymentAmount = (balance + monthlyRate) * monthTerms - downPayment;
             return paymentAmount;
         }
         public override string ToString()

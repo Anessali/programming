@@ -51,7 +51,7 @@ namespace Exam1
         virtual public decimal CalculatePayment()
         {
             decimal monthlyRate = CalculateInterest();
-            decimal paymentAmount = balance + monthlyRate;
+            decimal paymentAmount = (balance + monthlyRate) * monthTerms;
             return paymentAmount;
         }
 
