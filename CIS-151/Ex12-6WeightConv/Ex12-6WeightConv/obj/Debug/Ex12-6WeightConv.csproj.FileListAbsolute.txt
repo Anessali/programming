@@ -16,3 +16,12 @@
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12_6WeightConv.Form1.resources
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12_6WeightConv.Properties.Resources.resources
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12-6WeightConv.csproj.GenerateResource.Cache
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\bin\Debug\Ex12-6WeightConv.exe.config
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12-6WeightConv.exe
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12-6WeightConv.pdb
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12-6WeightConv.csprojResolveAssemblyReference.cache
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12_6WeightConv.Form1.resources
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12_6WeightConv.Properties.Resources.resources
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\obj\Debug\Ex12-6WeightConv.csproj.GenerateResource.Cache
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\bin\Debug\Ex12-6WeightConv.exe
+E:\GIT\programming\CIS-151\Ex12-6WeightConv\Ex12-6WeightConv\bin\Debug\Ex12-6WeightConv.pdb

@@ -13,8 +13,6 @@ namespace Ex12_6WeightConv
         private double pounds;
         private double ounces;
 
-        
-
         public WeightConverter(double kilograms, double pounds, double ounces)
         {
             this.kilograms = kilograms;
@@ -27,10 +25,18 @@ namespace Ex12_6WeightConv
             kilograms = kilograms * 0.00100;
             return kilograms;
         }
-        //public void ConvertToPounds()
-        //{
 
-        //}
+        public double ConvertToPounds()
+        {
+            pounds = pounds * 0.00220;
+            return pounds;
+        }
+
+        public double ConvertToOunces()
+        {
+            ounces = ounces * 0.03527;
+            return ounces;
+        }
         #region getters and setters
         public double Kilograms
         {
