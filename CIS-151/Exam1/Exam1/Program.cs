@@ -24,13 +24,13 @@ namespace Exam1
             bool lever = true;
             
             //This section gathers user input
-            Write("Enter loan ID: ");
+            Write("\nEnter loan ID: ");
             id = Convert.ToInt32(ReadLine());
             Write("Enter original loan amount: ");
             oLoan = Convert.ToDecimal(ReadLine());
             Write("Enter interest rate: ");
             interest = Convert.ToDecimal(ReadLine());
-            Write("How many months overdue is the loan?");
+            Write("How many months overdue is the loan? ");
             monthsOverdue = Convert.ToInt32(ReadLine());
             while (lever) {//user stuck in loop until they choose valid choice
                 //displays console menu
