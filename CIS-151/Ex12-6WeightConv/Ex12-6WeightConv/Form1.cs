@@ -26,10 +26,10 @@ namespace Ex12_6WeightConv
                  *   values stored in variables to easily pass through methods  *
                  * **************************************************************/
                 double weight = Convert.ToDouble(txtTempIn.Text);
-                string weightBox = cboBxOne.Text, 
+                string weightBox = cboBxOne.Text,
                     convertBox = cboBxTwo.Text;
-                if (weight < 0)//throws exception if user enters a negative
-                {
+                if (weight < 0)
+                {//throws exception if user enters a negative
                     throw new Exception();
                 }
                 //calls methods for calculations

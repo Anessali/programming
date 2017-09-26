@@ -39,24 +39,30 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(140, 143);
+            this.button1.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.button1.Location = new System.Drawing.Point(140, 141);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(112, 32);
+            this.button1.Size = new System.Drawing.Size(112, 42);
             this.button1.TabIndex = 0;
             this.button1.Text = "Convert";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // txtTempIn
             // 
+            this.txtTempIn.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.txtTempIn.Location = new System.Drawing.Point(140, 100);
             this.txtTempIn.Name = "txtTempIn";
             this.txtTempIn.Size = new System.Drawing.Size(112, 24);
             this.txtTempIn.TabIndex = 1;
+            this.txtTempIn.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtTempOut
             // 
+            this.txtTempOut.BackColor = System.Drawing.SystemColors.ControlDark;
             this.txtTempOut.Location = new System.Drawing.Point(36, 202);
             this.txtTempOut.Name = "txtTempOut";
             this.txtTempOut.ReadOnly = true;
@@ -66,6 +72,8 @@
             // 
             // cboBxTwo
             // 
+            this.cboBxTwo.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.cboBxTwo.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cboBxTwo.FormattingEnabled = true;
             this.cboBxTwo.Items.AddRange(new object[] {
             "grams",
@@ -76,7 +84,7 @@
             this.cboBxTwo.Name = "cboBxTwo";
             this.cboBxTwo.Size = new System.Drawing.Size(121, 26);
             this.cboBxTwo.TabIndex = 4;
-            this.cboBxTwo.Text = "ounces";
+            this.cboBxTwo.Text = "grams";
             // 
             // label2
             // 
@@ -90,6 +98,8 @@
             // 
             // cboBxOne
             // 
+            this.cboBxOne.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.cboBxOne.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cboBxOne.FormattingEnabled = true;
             this.cboBxOne.Items.AddRange(new object[] {
             "grams",
@@ -106,6 +116,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(404, 274);
             this.Controls.Add(this.cboBxOne);
             this.Controls.Add(this.label2);
@@ -114,6 +125,8 @@
             this.Controls.Add(this.txtTempIn);
             this.Controls.Add(this.button1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.SystemColors.Control;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
