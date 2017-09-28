@@ -22,6 +22,8 @@ namespace BubbleSort
                 Console.WriteLine(myArray[i]);
             }
 
+
+
             Console.ReadKey();
         }
     }
