@@ -17,7 +17,7 @@ namespace LargestValueArray
             int rows;
             int columns;
             int randomNum;
-            bool exitVar = false;
+            bool exitVar = false; //boolean used to loop program if user enters invalid data
             while (exitVar == false)
             {
                 try
@@ -27,9 +27,9 @@ namespace LargestValueArray
                     Console.WriteLine("Enter number of columns: ");
                     columns = Convert.ToInt32(Console.ReadLine());
                     int[,] randArray = new int[rows, columns];
-                    Console.WriteLine(randArray[10, 0]);
+                    Console.WriteLine(randArray[9, 0]);
 
-                    exitVar = true;
+                    exitVar = true; 
                 }
                 catch
                 {

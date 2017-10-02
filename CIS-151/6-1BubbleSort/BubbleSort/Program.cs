@@ -16,7 +16,13 @@ namespace BubbleSort
     {
         static void Main(string[] args)
         {
-            int[] myArray = new int[] { 100, 20, 1, 600, 300, 33, 71, 92 };
+            int[] myArray = new int[100]; // { 100, 20, 1, 600, 300, 33, 71, 92 }
+            Random rando = new Random();
+            /*   Populates array with random numbers   */
+            for (int x = 0; x < myArray.Length; x++)
+            {
+                myArray[x] = rando.Next(1, 200);
+            }
             double dots = 10; //edit this variable to change # of generated dots
             Console.Write("\nThe original order is: ");
             int i = 0; //i is declared outside of for to remove an extra comma
@@ -51,6 +57,7 @@ namespace BubbleSort
                         arrayHolder = myArray[x];
                         myArray[x] = myArray[x + 1];
                         myArray[x + 1] = arrayHolder;
+                        Console.Write(myArray[x]);
                     }
                 }
             }

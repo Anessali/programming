@@ -4,3 +4,9 @@ C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\Largest
 C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.csprojResolveAssemblyReference.cache
 C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.exe
 C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.csprojResolveAssemblyReference.cache
