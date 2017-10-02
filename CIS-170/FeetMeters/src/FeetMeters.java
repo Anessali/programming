@@ -7,10 +7,10 @@ public class FeetMeters {
         double feet = 4;
         double meters = 4;
         boolean exitVar = false;
-        //double fTM, mTF; //variables used to hold converted values
+        // *~~~ Headers ~~~*
         System.out.printf("%4s%10s%20s%10s\n", "Feet", "Meters", "Meters", "Feet");
         System.out.println("---------------------------------------------");
-        
+        //data output
         System.out.printf("%4.1f%10.3f%20.1f%10.3f\n", feet, fTM(feet), meters, mTF(meters));
     }
     
@@ -20,7 +20,7 @@ public class FeetMeters {
     }
     
     public static double mTF(double meters){
-        meters = 0.305 * feet;
+        meters = 1 / 0.305  * meters;
         return meters;
     }
 }
