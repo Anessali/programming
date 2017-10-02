@@ -11,7 +11,16 @@ namespace Ch8_Calories_102
         static void Main(string[] args)
         {
             Random randArray = new Random();
-            int[,] calories = new int [7, 3];
+            int[,] calories = new int[7, 3];
+
+            ////allocate a two dimensional array
+            //int[ , ] calories = { { 900,  750, 1020 },
+            //                    { 300, 1000, 2700 },
+            //                    { 500,  700, 2100 },
+            //                    { 400,  900, 1780 },
+            //                    { 600, 1200, 1100 },
+            //                    { 575, 1150, 1900 },
+            //                    { 600, 1020, 1700 }};
 
             for (int x = 0; x < calories.GetLength(0); x++)
             {

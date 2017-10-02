@@ -4,3 +4,9 @@
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\obj\Debug\Ch8 Calories 102.csprojResolveAssemblyReference.cache
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\obj\Debug\Ch8 Calories 102.exe
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\obj\Debug\Ch8 Calories 102.pdb
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\bin\Debug\Ch8 Calories 102.exe.config
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\bin\Debug\Ch8 Calories 102.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\bin\Debug\Ch8 Calories 102.pdb
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\obj\Debug\Ch8 Calories 102.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\obj\Debug\Ch8 Calories 102.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\0ic Class Examples\Ch8 Calories 102\Ch8 Calories 102\obj\Debug\Ch8 Calories 102.pdb
