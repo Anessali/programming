@@ -1,0 +1,6 @@
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.exe.config
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.pdb
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.pdb
