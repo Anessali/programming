@@ -4,3 +4,9 @@
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\6-1BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

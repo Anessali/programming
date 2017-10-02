@@ -17,14 +17,30 @@ namespace BubbleSort
             /* ****************************************** *
              * Counts array before it is sorted by bubble *
              * ****************************************** */
-            for (int i = 0; i < myArray.Length; i++)
+            Console.Write("The original order is: ");
+            int i = 0; //i declared outside of for to remove comma
+            for (i = 0; i < (myArray.Length - 1); i++)
             {
-                Console.WriteLine(myArray[i]);
+                Console.Write(myArray[i] + ", ");
             }
+            Console.WriteLine(myArray[i]);
 
-
+            BubbleSort(myArray);
 
             Console.ReadKey();
+        }
+
+        private static int[] BubbleSort(int[] myArray)
+        {
+            for (int i= 0; i < myArray.Length; i++)
+            {
+                for (int x = 0; x < myArray.Length; x++)
+                {
+
+                }
+            }
+
+            return myArray;
         }
     }
 }
