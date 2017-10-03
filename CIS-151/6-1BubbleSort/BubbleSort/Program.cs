@@ -33,6 +33,7 @@ namespace BubbleSort
             Console.WriteLine(myArray[i]); //see line 22 comment
             Dots(dots);
             myArray = BubbleSort(myArray);
+            Dots(dots);
             // * Outputs final results *
             Console.Write("The sorted array: ");
             int y;
@@ -44,10 +45,17 @@ namespace BubbleSort
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Method sorts generated array
+        /// using bubble sort
+        /// </summary>
+        /// <param name="myArray"></param>
+        /// <returns></returns>
         private static int[] BubbleSort(int[] myArray)
         {
+            Console.WriteLine("Smaller\tLarger");
+            Console.WriteLine("________________\n");
             int arrayHolder;
-            // Original array: 100, 20, 1, 600, 300, 33, 71, 92
             for (int i= 0; i < myArray.Length; i++)
             {
                 for (int x = 0; x < myArray.Length - 1 - i; x++)
@@ -58,6 +66,8 @@ namespace BubbleSort
                         myArray[x] = myArray[x + 1];
                         myArray[x + 1] = arrayHolder;
                         Console.Write(myArray[x]);
+                        Console.Write("\t");
+                        Console.WriteLine(myArray[x + 1]);
                     }
                 }
             }
