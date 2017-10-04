@@ -1,0 +1,2 @@
+\\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe.config

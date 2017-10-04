@@ -10,3 +10,6 @@ C:\Users\Shiro\Documents\GIT\programming\CIS-151\CIS-151\8-6LargestArray\Largest
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.exe
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.pdb
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.csprojResolveAssemblyReference.cache
+H:\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\bin\Debug\LargestValueArray.exe.config
+H:\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.exe
+H:\CIS\GIT\programming\CIS-151\8-6LargestArray\LargestValueArray\obj\Debug\LargestValueArray.pdb
