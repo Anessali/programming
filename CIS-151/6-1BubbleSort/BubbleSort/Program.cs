@@ -45,13 +45,23 @@ namespace BubbleSort
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Method sorts generated array
+        /// using bubble sort
+        /// </summary>
+        /// <param name="myArray"></param>
+        /// <returns></returns>
         private static int[] BubbleSort(int[] myArray)
         {
             Console.WriteLine("Smaller\tLarger");
             Console.WriteLine("________________\n");
             int arrayHolder;
+<<<<<<< HEAD
             // Original array: 100, 20, 1, 600, 300, 33, 71, 92
             for (int i = 0; i < myArray.Length; i++)
+=======
+            for (int i= 0; i < myArray.Length; i++)
+>>>>>>> c37894b6c979bdde465234173b4a363fd454458e
             {
                 for (int x = 0; x < myArray.Length - 1 - i; x++)
                 {
