@@ -1,2 +1,13 @@
 \\fsd.otc.edu\usrhome\k-n\liggettt\visual studio 2015\Projects\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe.config
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe.config
+H:\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe.config
+H:\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe
+H:\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.pdb
+H:\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.csprojResolveAssemblyReference.cache
+H:\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.exe
+H:\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.csprojResolveAssemblyReference.cache

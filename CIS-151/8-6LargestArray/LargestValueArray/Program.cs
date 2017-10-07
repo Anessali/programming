@@ -14,8 +14,8 @@ namespace LargestValueArray
     {
         static void Main(string[] args)
         {
-            int rows;
-            int columns;
+            int rows = 0;
+            int columns = 0;
             bool exitVar = false;
             //exitVar is used to loop program if user enters invalid data
             while (exitVar == false)
@@ -26,15 +26,16 @@ namespace LargestValueArray
                     rows = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Enter number of columns: ");
                     columns = Convert.ToInt32(Console.ReadLine());
-                    ArrayGen(rows, columns);
-                    exitVar = true; 
+                    exitVar = true;
+
+
                 }
                 catch
                 {
                     Console.WriteLine("Please enter a valid number.");
                 }
             }
-
+            ArrayGen(rows, columns);
             Console.ReadKey();
         }//end of main
 
@@ -46,23 +47,47 @@ namespace LargestValueArray
         /// <param name="columns"></param>
         public static void ArrayGen(int rows, int columns)
         {
+            //declared variables
             int[,] randArray = new int[rows, columns];
-            int length = randArray.Length;
-            randArray[0, 1] = 1;
+            String largerValue = "";
+
             Random num = new Random();
-            Console.Write("\nIndex\n");
+            int[,] largestNum = new int[rows, columns]; //used to hold largest value in array
+            /*~     Index Menu     ~*/
+            Console.Write("\nIndex");
+            for (int i = 0; i < columns; i++)
+            {
+                Console.Write("\t" + i);
+            }
+            /*~     Outputs multidimensional array     ~*/
+            Console.WriteLine();
             for (int x = 0; x < rows; x++)
             {
                 Console.Write(x);
                 for (int o = 0; o < columns; ++o)
                 {
                     randArray[x, o] = num.Next(0, 100);
-                    Console.Write("\t" + randArray[x,o]);
+                    Console.Write("\t" + randArray[x, o]);
                 }
                 Console.WriteLine();
             }
-            /*~    below code prints out array    ~*/
-            
-        }
+            //Nested for loops used to search for the largest value
+            int biggestNum = 0;
+            for (int y = 0; y < rows; y++)
+            {
+                for (int z = 0; z < columns; z++)
+                {
+                    if (randArray[y, z] > biggestNum)
+                    {
+                        biggestNum = randArray[y, z];
+                        //larger value information is stored in string variable
+                        largerValue = "\nThe largest value is " + randArray[y, z] +
+                            " at index " + y + ", " + z;
+                    }
+                }
+            }
+            Console.WriteLine(largerValue);
+        }//end of ArrayGen
     }
 }
+

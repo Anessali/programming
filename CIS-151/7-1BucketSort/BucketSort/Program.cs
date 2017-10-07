@@ -10,7 +10,11 @@ namespace BucketSort
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            int[] nums = new int[100];
+            int[,] bucket = new int[,] { };
+
+            //BucketSort bClass = new BucketSort(nums[], bucket[,]);
+            Console.ReadKey();
         }
     }
 }

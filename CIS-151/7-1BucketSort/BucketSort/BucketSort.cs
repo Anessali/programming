@@ -8,9 +8,9 @@ namespace BucketSort
 {
     class BucketSort
     {
-        public Sort()
-        {
+        //public Sort()
+        //{
 
-        }
+        //}
     }
 }
