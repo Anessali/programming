@@ -10,10 +10,17 @@ namespace BucketSort
     {
         static void Main(string[] args)
         {
+            Random rand = new Random();
             int[] nums = new int[100];
-            int[,] bucket = new int[,] { };
+            int[,] bucket = new int[10, 10];
 
-            //BucketSort bClass = new BucketSort(nums[], bucket[,]);
+            //nums array is filled with random numbers
+            for(int i = 0; i < nums.Length; i++)
+            {
+                nums[i] = rand.Next(0, 100);
+            }
+
+            BucketSort pail = new BucketSort(nums, bucket);
             Console.ReadKey();
         }
     }
