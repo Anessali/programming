@@ -1,0 +1,14 @@
+c:\users\shiro\source\repos\ConceptTest\ConceptTest\bin\Debug\ConceptTest.exe.config
+c:\users\shiro\source\repos\ConceptTest\ConceptTest\bin\Debug\ConceptTest.exe
+c:\users\shiro\source\repos\ConceptTest\ConceptTest\bin\Debug\ConceptTest.pdb
+c:\users\shiro\source\repos\ConceptTest\ConceptTest\obj\Debug\ConceptTest.csprojResolveAssemblyReference.cache
+c:\users\shiro\source\repos\ConceptTest\ConceptTest\obj\Debug\ConceptTest.csproj.CoreCompileInputs.cache
+c:\users\shiro\source\repos\ConceptTest\ConceptTest\obj\Debug\ConceptTest.exe
+c:\users\shiro\source\repos\ConceptTest\ConceptTest\obj\Debug\ConceptTest.pdb
+C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\bin\Debug\ConceptTest.exe.config
+C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\bin\Debug\ConceptTest.exe
+C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\bin\Debug\ConceptTest.pdb
+C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.exe
+C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.pdb
