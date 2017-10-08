@@ -11,3 +11,10 @@ H:\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.pdb
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.pdb
 \\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\Git\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe.config
+C:\Users\Shiro\Documents\Git\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.exe
+C:\Users\Shiro\Documents\Git\programming\CIS-151\7-1BucketSort\BucketSort\bin\Debug\BucketSort.pdb
+C:\Users\Shiro\Documents\Git\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\Git\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Documents\Git\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.exe
+C:\Users\Shiro\Documents\Git\programming\CIS-151\7-1BucketSort\BucketSort\obj\Debug\BucketSort.pdb
