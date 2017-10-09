@@ -12,3 +12,9 @@ C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\Co
 C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.csproj.CoreCompileInputs.cache
 C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.exe
 C:\Users\Shiro\Documents\Git\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ConceptTest\ConceptTest\bin\Debug\ConceptTest.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ConceptTest\ConceptTest\bin\Debug\ConceptTest.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ConceptTest\ConceptTest\bin\Debug\ConceptTest.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\C#\ConceptTest\ConceptTest\obj\Debug\ConceptTest.csprojResolveAssemblyReference.cache
