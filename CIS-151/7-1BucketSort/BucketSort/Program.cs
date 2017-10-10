@@ -19,6 +19,7 @@ namespace BucketSort
             for(int i = 0; i < nums.Length; i++)
             {
                 nums[i] = rand.Next(0, 100);
+                Console.WriteLine(nums[i]);
             }
 
             BucketSort pail = new BucketSort(nums, bucket, length);
