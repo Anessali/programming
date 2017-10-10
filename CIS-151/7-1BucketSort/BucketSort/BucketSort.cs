@@ -20,22 +20,34 @@ namespace BucketSort
             this.numLength = numLength;
         }
 
-        public int Sort()
+        public int[ , ] Sort()
         {
             /* ***************************************** *
              * Placeholder used to hold rightmost digits *
              * ***************************************** */
             int[] placeholder = new int[numLength];
-            
+            int arrHold = 0;
+            int count = 0;
+            int tempCount = 0;
             for (int i = 0; i < 10; i++)
             {
-                
+
                 for (int x = 0; x < 10; x++)
                 {
-
+                    tempCount = x;
+                    arrHold = nums[count] % 10;
+                    while (bucket[arrHold, tempCount] != null)
+                    {
+                        tempCount++;
+                    }
+                    
+                    bucket[arrHold, tempCount] = nums[i];
+                    tempCount = 0;
+                    count++;
                 }
             }
-            return 1;
+            Console.WriteLine("BucketNum: " + bucket[7,0]);
+            return bucket;
         }
 
         #region getters/setters

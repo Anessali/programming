@@ -12,48 +12,43 @@ public class Hangman {
         
         /*~~~  Generated Variables  ~~~*/
         //Array 1 - holds words
-        String[] words = {"banana", "cobra"/*, "onomatopoeia", "security"*/};
+        String[] words = {"banana", "cobra", "onomatopoeia", "security", "bahamas"};
         int randNum = rand.nextInt(words.length);
         //Array 2 - correct answers
-        char[] corAnswers = new char[randNum];
+        char[] corAnswers = new char[words[randNum].length() + 5];
         //Array 3 - incorrect answers
-        char[] incAnswers = new char[randNum];
-        int correctAnswers = 0,
+        char[] incAnswers = new char[words[randNum].length() + 5];
+        int correct = 0,
             incorrect = 0;
         char guessLetter;
         boolean lever = false;
-        
-        
+        //number of stars in theWord set by words array length
+        String theWord = "";
+        for(int i = 0; i < words[randNum].length(); i++){
+            theWord += "*";
+        }
         /*~~~  Program Processing  ~~~*/
         while (lever == false) {
-            //letters = generateCorrect(letters, words, randNum);
             System.out.println("Guess a letter");
             guessLetter = guess.next().charAt(0);
-            correctAnswers += check(guessLetter, words[randNum]);
+            correct += check(guessLetter, words[randNum], theWord);
             incorrect += wrong(guessLetter, words[randNum]);
             //if/for/else adds correct and incorrect answers to arrays
-            if (check(guessLetter, words[randNum]) >= 1){
-                for (int i = 0; i < corAnswers.length; i++){
-                    corAnswers[i] = guessLetter;
-                }
+            if (check(guessLetter, words[randNum], theWord) >= 1){
+                corAnswers[correct - 1] = guessLetter;
             } else {
-                for (int i = 0; i < corAnswers.length; i++){
-                    incAnswers[i] = guessLetter;
-                }
+                incAnswers[incorrect] = guessLetter;
             }
-            
-            
+            //calls method to generate theWord
+            theWord = checkString(guessLetter, words[randNum],theWord);
             /*~~~  Output  ~~~*/
-            System.out.println("So far you've guessed: ");
-            for (int cor = 0; cor < corAnswers.length; cor++){
-                System.out.print(corAnswers[cor]);
-            }
-            System.out.println("\nYou've guessed the following incorrect letters: ");
+            System.out.println("Correct answers:");
+            System.out.println(theWord);
+            System.out.println("\nIncorrect answers: ");
             for (int inc = 0; inc < corAnswers.length; inc++){
                 System.out.print(incAnswers[inc]);
             }
-            
-            System.out.println("\nYou've gotten " + correctAnswers + " correct");
+            System.out.println("\nYou've gotten " + correct + " correct");
             System.out.println("You have " + (6 - incorrect) + " guesses remaining");
             //loser output
             if(incorrect == 6){
@@ -61,12 +56,11 @@ public class Hangman {
                 lever = true;
             } 
             //winner output
-            if(correctAnswers == words[randNum].length()){
-                output(words[randNum]);
+            if(correct == words[randNum].length()){
+                System.out.println("You've won! The word was:\n" + words[randNum]);
                 lever = true;
             }
         }
-        
     }//end of main
     
     //calculates incorrect answers
@@ -85,26 +79,26 @@ public class Hangman {
     }
     
     //checks if guess is correct
-    public static int check(char guess, String word){
+    public static int check(char guess, String word, String newWord){
         int correct= 0;
         for(int i = 0; i < word.length(); i++){
             //chars are pulled directly from string
             if (guess == word.charAt(i)) {
-                System.out.print(guess);
                 correct++;
             }
-            else{
-                System.out.print("*");
+        }
+        return correct;
+    }//end of method
+    
+    public static String checkString(char guess, String word, String newWord){
+        int correct = 0;
+        for(int i = 0; i < word.length(); i++){
+            //chars are pulled directly from string
+            if (guess == word.charAt(i)) {
+                
+                correct++;
             }
         }
-        System.out.println();
-        return correct;
-    }
-    
-    //program output
-    public static void output(String word){
-        System.out.println("You've won! The word was: ");
-        System.out.print(word);
-        System.out.println();
-    }
+        return newWord;
+    }//end of method
 }
