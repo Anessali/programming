@@ -1,18 +1,17 @@
 import java.util.Random;
 import java.util.Scanner;
-
+    /*=========================*
+     *     Hangman Game        * 
+     *    Coded by: TJ         *
+     *   Group member: Austyn  *
+     *=========================*/
 public class Hangman {
-
     public static void main(String[] args) {
-        /*=========================*
-         *      Hangman Game       *
-         *=========================*/
         Random rand = new Random();
         Scanner guess = new Scanner(System.in);
-        
         /*~~~  Generated Variables  ~~~*/
         //Array 1 - holds words
-        String[] words = {"banana", "cobra", "onomatopoeia", "security", "bahamas"};
+        String[] words = {"banana", "cobra", "monkey", "security", "bahamas"};
         int randNum = rand.nextInt(words.length);
         //Array 2 - correct answers
         char[] corAnswers = new char[words[randNum].length() + 5];
@@ -23,9 +22,9 @@ public class Hangman {
         char guessLetter;
         boolean lever = false;
         //number of stars in theWord set by words array length
-        String theWord = "";
-        for(int i = 0; i < words[randNum].length(); i++){
-            theWord += "*";
+        char[] theWord = new char[words[randNum].length()];
+        for(int i = 0; i < theWord.length; i++){
+            theWord[i] = '*';
         }
         /*~~~  Program Processing  ~~~*/
         while (lever == false) {
@@ -40,10 +39,12 @@ public class Hangman {
                 incAnswers[incorrect] = guessLetter;
             }
             //calls method to generate theWord
-            theWord = checkString(guessLetter, words[randNum],theWord);
+            //theWord = checkString(guessLetter, words[randNum],theWord);
             /*~~~  Output  ~~~*/
             System.out.println("Correct answers:");
-            System.out.println(theWord);
+            for(int i = 0; i < theWord.length; i++){
+                System.out.print(theWord[i]);
+            }
             System.out.println("\nIncorrect answers: ");
             for (int inc = 0; inc < corAnswers.length; inc++){
                 System.out.print(incAnswers[inc]);
@@ -79,26 +80,27 @@ public class Hangman {
     }
     
     //checks if guess is correct
-    public static int check(char guess, String word, String newWord){
+    public static int check(char guess, String word, char [] newWord){
         int correct= 0;
         for(int i = 0; i < word.length(); i++){
             //chars are pulled directly from string
             if (guess == word.charAt(i)) {
+                newWord[i] = guess;
                 correct++;
             }
         }
         return correct;
     }//end of method
     
-    public static String checkString(char guess, String word, String newWord){
-        int correct = 0;
-        for(int i = 0; i < word.length(); i++){
-            //chars are pulled directly from string
-            if (guess == word.charAt(i)) {
-                
-                correct++;
-            }
-        }
-        return newWord;
-    }//end of method
+//    public static String checkString(char guess, String word, String newWord){
+//        int correct = 0;
+//        for(int i = 0; i < word.length(); i++){
+//            //chars are pulled directly from string
+//            if (guess == word.charAt(i)) {
+//                
+//                correct++;
+//            }
+//        }
+//        return newWord;
+//    }//end of method
 }
