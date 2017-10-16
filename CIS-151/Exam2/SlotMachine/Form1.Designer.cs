@@ -35,6 +35,8 @@
             this.btnClose = new System.Windows.Forms.Button();
             this.txtCredit = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtResult = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pBx1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBx2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pBx3)).BeginInit();
@@ -42,6 +44,7 @@
             // 
             // pBx1
             // 
+            this.pBx1.Image = global::SlotMachine.Properties.Resources.bar;
             this.pBx1.Location = new System.Drawing.Point(39, 37);
             this.pBx1.Margin = new System.Windows.Forms.Padding(4);
             this.pBx1.Name = "pBx1";
@@ -51,6 +54,7 @@
             // 
             // pBx2
             // 
+            this.pBx2.Image = global::SlotMachine.Properties.Resources.bar;
             this.pBx2.Location = new System.Drawing.Point(253, 37);
             this.pBx2.Margin = new System.Windows.Forms.Padding(4);
             this.pBx2.Name = "pBx2";
@@ -60,6 +64,7 @@
             // 
             // pBx3
             // 
+            this.pBx3.Image = global::SlotMachine.Properties.Resources.bar;
             this.pBx3.Location = new System.Drawing.Point(460, 37);
             this.pBx3.Margin = new System.Windows.Forms.Padding(4);
             this.pBx3.Name = "pBx3";
@@ -96,7 +101,6 @@
             this.txtCredit.Name = "txtCredit";
             this.txtCredit.Size = new System.Drawing.Size(125, 24);
             this.txtCredit.TabIndex = 5;
-            this.txtCredit.TextChanged += new System.EventHandler(this.txtCredit_TextChanged);
             // 
             // label1
             // 
@@ -108,11 +112,33 @@
             this.label1.TabIndex = 6;
             this.label1.Text = "Credit:";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(182, 271);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(160, 48);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "Two of a kind wins ¥0.10\r\nThree of a kind wins ¥1.00\r\nA loss loses ¥0.10";
+            // 
+            // txtResult
+            // 
+            this.txtResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtResult.Location = new System.Drawing.Point(39, 271);
+            this.txtResult.Multiline = true;
+            this.txtResult.Name = "txtResult";
+            this.txtResult.ReadOnly = true;
+            this.txtResult.Size = new System.Drawing.Size(125, 48);
+            this.txtResult.TabIndex = 8;
+            this.txtResult.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(682, 381);
+            this.Controls.Add(this.txtResult);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtCredit);
             this.Controls.Add(this.btnClose);
@@ -144,6 +170,8 @@
         private System.Windows.Forms.Button btnClose;
         private System.Windows.Forms.TextBox txtCredit;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtResult;
     }
 }
 
