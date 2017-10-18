@@ -36,6 +36,10 @@ namespace Ch14_memberDBApp
                 //build our sql statement
                 sql = "SELECT * FROM membersTable " +
                         "ORDER BY LastName ASC, FirstName ASC;";
+
+                dbCmd = new OleDbCommand();     //creates instance of our cmd
+                dbCmd.CommandText = sql;
+                dbCmd.Connection = dbConn;
             }
             catch (System.Exception exc)
             {
