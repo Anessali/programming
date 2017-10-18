@@ -12,8 +12,7 @@ namespace ConceptTest
         {
             double[] arr = new double[] { 22, 45, 12, 8, 10, 6, 72, 81, 33, 18, 50, 14 };
             double[,] buckets = new double[10, 12];
-            int j = 0;
-            int row = 0,
+            int j = 0,
                 column = 0;
 
             for (int i = 0; i < arr.Length; i++)

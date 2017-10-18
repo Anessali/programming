@@ -1,0 +1,10 @@
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\Shiro\Documents\Git\programming\CIS-151\Exam2\SlotMachine\obj\Debug\SlotMachine.pdb

@@ -10,15 +10,15 @@ namespace BucketSort
     {
         static void Main(string[] args)
         {
+            /*      Declared variables      */
             Random rand = new Random();
+            
             int[] nums = new int[100];
             int length = nums.Length;
             int rows = 10,
                 columns = 100;
-            int[,] bucket = new int[rows, columns];
-
-            Console.WriteLine("\nPress enter to generate an unsorted array");
-            Console.ReadLine();
+            int[,] bucket = new int[rows, columns + 1];
+            
             //nums array is filled with random numbers
             Console.WriteLine("The unsorted array is: ");
             for(int i = 0; i < nums.Length; i++)
@@ -28,15 +28,28 @@ namespace BucketSort
             }
             Console.WriteLine();
             BucketSort pail = new BucketSort(nums, bucket, length);
-            bucket = pail.Sort();
-            for (int i = 0; i < 10; i++)
-            {
+            nums = pail.Sort();
 
-                for (int x = 0; x < 10; x++)
-                Console.Write(bucket[i, x] + "\t");
-            }
+            /*~~~   Output   ~~~*/
+            Console.WriteLine("First pass through bucket: \n");
+            pail.printNums(nums);
 
             Console.ReadKey();
+        }//end of main
+
+        
+
+        /// <summary>
+        /// Generates program dots
+        /// </summary>
+        /// <param name="dots"></param>
+        public void dot()
+        {
+            int dots = 10;
+            for (int i = 0; i < dots; i++)
+            {
+                Console.WriteLine(".");
+            }
         }
     }
 }

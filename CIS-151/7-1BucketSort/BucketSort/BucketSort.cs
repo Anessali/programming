@@ -20,34 +20,76 @@ namespace BucketSort
             this.numLength = numLength;
         }
 
-        public int[ , ] Sort()
+        public int[] Sort()
         {
+            Program prog = new Program();
             /* ***************************************** *
-             * Placeholder used to hold rightmost digits *
+             *         Bucket Sort is executed           *
              * ***************************************** */
-            int[] placeholder = new int[numLength];
-            int arrHold = 0;
-            int count = 0;
-            int tempCount = 0;
-            for (int i = 0; i < 10; i++)
-            {
+            int mod = 0,
+                column = 0,
+                count = 0;
 
-                for (int x = 0; x < 10; x++)
+            //vlaues in num array added to buckets
+            for (int i = 0; i < nums.Length; i++)
+            {
+                mod = nums[i] % 10;
+                if (bucket[mod, column] != 0)
                 {
-                    tempCount = x;
-                    arrHold = nums[count] % 10;
-                    while (bucket[arrHold, tempCount] != null)
+                    for (int cNum = 0; bucket[mod, column] != 0; cNum++)
                     {
-                        tempCount++;
+                        column++;
                     }
-                    
-                    bucket[arrHold, tempCount] = nums[i];
-                    tempCount = 0;
-                    count++;
+                    bucket[mod, column] = nums[i];
+                    column = 0;
+                }
+                else
+                {
+                    bucket[mod, column] = nums[i];
                 }
             }
-            Console.WriteLine("BucketNum: " + bucket[7,0]);
-            return bucket;
+            
+            prog.dot();
+            printBucket(bucket);
+            prog.dot();
+
+            //buckets are emptied into nums array
+            for (int r = 0; r < 10; r++)
+            {
+                for (int c = 0; c < 10; c++) {
+                    nums[count] = bucket[r, c];
+                    count++;
+                }
+                
+            }
+            return nums;
+        }//end of Sort()
+
+        /// <summary>
+        /// prints nums array
+        /// </summary>
+        /// <param name="nums"></param>
+        public void printNums(int[] nums)
+        {
+            for (int i = 0; i < nums.Length; i++)
+            {
+                Console.Write(nums[i] + "\t");
+            }
+        }
+
+        /// <summary>
+        /// method prints two-dimensional array
+        /// </summary>
+        public static void printBucket(int [,] bucket)
+        {
+            for (int r = 0; r < 10; r++)
+            {
+                for (int c = 0; c < 10; c++)
+                {
+                    Console.Write(bucket[r, c] + "\t");
+                }
+                Console.WriteLine("\n");
+            }
         }
 
         #region getters/setters
