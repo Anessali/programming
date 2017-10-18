@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\bin\Debug\Ch14 memberDBApp.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\bin\Debug\Ch14 memberDBApp.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\bin\Debug\Ch14 memberDBApp.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\obj\Debug\Ch14 memberDBApp.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\obj\Debug\Ch14_memberDBApp.DBGui.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\obj\Debug\Ch14_memberDBApp.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\obj\Debug\Ch14 memberDBApp.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\obj\Debug\Ch14 memberDBApp.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\Ch14 memberDBApp\obj\Debug\Ch14 memberDBApp.pdb
