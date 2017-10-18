@@ -8,6 +8,9 @@ namespace Ch14_memberDBApp
     {
         private OleDbConnection dbConn; //this object will hold our connection info
         private string sConnection;     //Hold our connection information
+
+        private OleDbCommand dbCmd;     //object to hold our SQl command
+        private string sql;             
         public DBGui()
         {
             InitializeComponent();
@@ -29,6 +32,10 @@ namespace Ch14_memberDBApp
                     "Data Source=memberDB.accdb";
                 dbConn = new OleDbConnection(sConnection);
                 dbConn.Open();
+
+                //build our sql statement
+                sql = "SELECT * FROM membersTable " +
+                        "ORDER BY LastName ASC, FirstName ASC;";
             }
             catch (System.Exception exc)
             {
