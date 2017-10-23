@@ -8,7 +8,6 @@ namespace Ch14_memberDBApp
     {
         private OleDbConnection dbConn; //this object will hold our connection info
         private string sConnection;     //Hold our connection information
-
         private OleDbCommand dbCmd;     //object to hold our SQl command
         private string sql;             
         public DBGui()
@@ -29,14 +28,14 @@ namespace Ch14_memberDBApp
 
                 sConnection =
                     "Provider=Microsoft.ACE.OLEDB.12.0;" +
-                    "Data Source=memberDB.accdb";
+                    "Data Source=memberDB.accdb;";
                 dbConn = new OleDbConnection(sConnection);
                 dbConn.Open();
-
+                                                
                 //build our sql statement
                 sql = "SELECT * FROM membersTable " +
                         "ORDER BY LastName ASC, FirstName ASC;";
-
+                                                                            
                 dbCmd = new OleDbCommand();     //creates instance of our cmd
                 dbCmd.CommandText = sql;
                 dbCmd.Connection = dbConn;
