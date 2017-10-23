@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF9142C4-3D13-4F33-98EE-F7504634D3E0}</ProjectGuid>
+    <ProjectGuid>{F0FE02B1-6517-42A5-B1C0-AA914240CD4D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ch14_memberDBApp</RootNamespace>
-    <AssemblyName>Ch14 memberDBApp</AssemblyName>
+    <RootNamespace>SQL_memberDBApp</RootNamespace>
+    <AssemblyName>SQL memberDBApp</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,19 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Backup\Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Backup\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Business Logic\Member.cs" />
     <Compile Include="GUI\DBGui.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\DBGui.Designer.cs">
       <DependentUpon>DBGui.cs</DependentUpon>
     </Compile>
-    <Compile Include="Business Logic\Member.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\DBGui.resx">
@@ -85,9 +79,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Data Access\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

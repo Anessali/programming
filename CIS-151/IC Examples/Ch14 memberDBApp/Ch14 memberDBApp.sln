@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch14 memberDBApp", "Ch14 memberDBApp\Ch14 memberDBApp.csproj", "{CF9142C4-3D13-4F33-98EE-F7504634D3E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLMemberDBApp", "SQLMemberDBApp\SQLMemberDBApp.csproj", "{241AAAB8-CC50-4B44-A916-2DF252AC8B6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CF9142C4-3D13-4F33-98EE-F7504634D3E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF9142C4-3D13-4F33-98EE-F7504634D3E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF9142C4-3D13-4F33-98EE-F7504634D3E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241AAAB8-CC50-4B44-A916-2DF252AC8B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241AAAB8-CC50-4B44-A916-2DF252AC8B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241AAAB8-CC50-4B44-A916-2DF252AC8B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241AAAB8-CC50-4B44-A916-2DF252AC8B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

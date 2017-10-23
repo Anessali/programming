@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\bin\Debug\Ch14DataGridUpdate.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\bin\Debug\Ch14DataGridUpdate.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\bin\Debug\Ch14DataGridUpdate.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\obj\Debug\Ch14DataGridUpdate.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\obj\Debug\Ch14DataGridUpdate.Form1.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\obj\Debug\Ch14DataGridUpdate.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\obj\Debug\Ch14DataGridUpdate.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\obj\Debug\Ch14DataGridUpdate.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14DataGridUpdate\Ch14DataGridUpdate\obj\Debug\Ch14DataGridUpdate.pdb

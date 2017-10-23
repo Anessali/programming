@@ -1,0 +1,8 @@
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\bin\Debug\SQLMemberDBApp.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\bin\Debug\SQLMemberDBApp.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\bin\Debug\SQLMemberDBApp.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\obj\Debug\SQLMemberDBApp.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\obj\Debug\SQLMemberDBApp.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\obj\Debug\SQLMemberDBApp.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\obj\Debug\SQLMemberDBApp.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQLMemberDBApp\obj\Debug\SQLMemberDBApp.DBGui.resources

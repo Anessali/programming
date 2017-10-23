@@ -8,8 +8,14 @@ namespace Ch14_memberDBApp
     {
         private OleDbConnection dbConn; //this object will hold our connection info
         private string sConnection;     //Hold our connection information
+
         private OleDbCommand dbCmd;     //object to hold our SQl command
-        private string sql;             
+        private string sql;
+
+        private OleDbDataReader dbReader;
+        private Member aMember;
+
+                
         public DBGui()
         {
             InitializeComponent();
@@ -33,12 +39,22 @@ namespace Ch14_memberDBApp
                 dbConn.Open();
                                                 
                 //build our sql statement
-                sql = "SELECT * FROM membersTable " +
+                sql = "SELECT * FROM memberTable " +
                         "ORDER BY LastName ASC, FirstName ASC;";
                                                                             
                 dbCmd = new OleDbCommand();     //creates instance of our cmd
                 dbCmd.CommandText = sql;
                 dbCmd.Connection = dbConn;
+                //create our reader object
+                dbReader = dbCmd.ExecuteReader( );
+                while (dbReader.Read())
+                {
+                    aMember = new Member(dbReader["LastName"].ToString(), 
+                                        dbReader["FirstName"].ToString());
+                    lstBxMembers.Items.Add(aMember);
+                }
+                dbReader.Close();
+                dbConn.Close();
             }
             catch (System.Exception exc)
             {

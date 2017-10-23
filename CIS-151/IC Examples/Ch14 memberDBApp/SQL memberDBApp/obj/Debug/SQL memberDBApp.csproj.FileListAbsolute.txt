@@ -1,0 +1,5 @@
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQL memberDBApp\bin\Debug\SQL memberDBApp.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQL memberDBApp\obj\Debug\SQL memberDBApp.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQL memberDBApp\obj\Debug\Ch14_memberDBApp.DBGui.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQL memberDBApp\obj\Debug\SQL_memberDBApp.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 memberDBApp\SQL memberDBApp\obj\Debug\SQL memberDBApp.csproj.GenerateResource.Cache
