@@ -40,7 +40,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(358, 90);
+            this.label1.Location = new System.Drawing.Point(160, 29);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(108, 25);
             this.label1.TabIndex = 0;
@@ -48,9 +48,9 @@
             // 
             // btnLoad
             // 
-            this.btnLoad.Location = new System.Drawing.Point(263, 496);
+            this.btnLoad.Location = new System.Drawing.Point(75, 454);
             this.btnLoad.Name = "btnLoad";
-            this.btnLoad.Size = new System.Drawing.Size(113, 57);
+            this.btnLoad.Size = new System.Drawing.Size(147, 57);
             this.btnLoad.TabIndex = 1;
             this.btnLoad.Text = "Load Data";
             this.btnLoad.UseVisualStyleBackColor = true;
@@ -58,12 +58,13 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(448, 496);
+            this.btnUpdate.Location = new System.Drawing.Point(258, 454);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(113, 57);
+            this.btnUpdate.Size = new System.Drawing.Size(147, 57);
             this.btnUpdate.TabIndex = 2;
             this.btnUpdate.Text = "Update Data";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // lblMessage
             // 
@@ -76,9 +77,9 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(13, 124);
+            this.dataGridView1.Location = new System.Drawing.Point(0, 68);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(842, 366);
+            this.dataGridView1.Size = new System.Drawing.Size(482, 366);
             this.dataGridView1.TabIndex = 4;
             // 
             // Form1
@@ -86,7 +87,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(867, 590);
+            this.ClientSize = new System.Drawing.Size(482, 540);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.lblMessage);
             this.Controls.Add(this.btnUpdate);

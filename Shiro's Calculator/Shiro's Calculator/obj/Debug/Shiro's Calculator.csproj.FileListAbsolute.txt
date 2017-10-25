@@ -1,1 +1,2 @@
 C:\Users\liggettt\Documents\Programming\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro's Calculator.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro's Calculator\Shiro's Calculator\bin\Debug\Shiro's Calculator.exe.config

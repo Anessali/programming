@@ -48,3 +48,19 @@ C:\Users\Shiro\Documents\GIT\programming\Shiro Calculator\Shiro's Calculator\obj
 C:\Users\Shiro\Documents\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.csproj.GenerateResource.Cache
 C:\Users\Shiro\Documents\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.exe
 C:\Users\Shiro\Documents\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Shiro Calculator.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\NCalc.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Core.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Platform.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.dll
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Core.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Core.xml
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Platform.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\bin\Debug\Xamarin.Forms.Xaml.xml
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Form1.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.MessageBaka.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro_s_Calculator.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\Shiro Calculator\Shiro's Calculator\obj\Debug\Shiro Calculator.csproj.GenerateResource.Cache

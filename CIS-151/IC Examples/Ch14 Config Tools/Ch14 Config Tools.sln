@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch14 Config Tools", "Ch14 Config Tools\Ch14 Config Tools.csproj", "{3FDEA0DB-0FA8-4144-BE25-1944B601CA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL Config Tools", "SQL Config Tools\SQL Config Tools.csproj", "{F3C3AA47-2AF6-4698-BF27-49AA5AD59278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FDEA0DB-0FA8-4144-BE25-1944B601CA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FDEA0DB-0FA8-4144-BE25-1944B601CA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FDEA0DB-0FA8-4144-BE25-1944B601CA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FDEA0DB-0FA8-4144-BE25-1944B601CA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C3AA47-2AF6-4698-BF27-49AA5AD59278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C3AA47-2AF6-4698-BF27-49AA5AD59278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C3AA47-2AF6-4698-BF27-49AA5AD59278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C3AA47-2AF6-4698-BF27-49AA5AD59278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
