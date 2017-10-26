@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\bin\Debug\Ch14 Config Tools.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\bin\Debug\StudentDataBase.accdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\bin\Debug\Ch14 Config Tools.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\bin\Debug\Ch14 Config Tools.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\obj\Debug\Ch14_Config_Tools.Form1.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\obj\Debug\Ch14_Config_Tools.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\obj\Debug\Ch14 Config Tools.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\obj\Debug\Ch14 Config Tools.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\IC Examples\Ch14 Config Tools\Ch14 Config Tools\obj\Debug\Ch14 Config Tools.pdb
