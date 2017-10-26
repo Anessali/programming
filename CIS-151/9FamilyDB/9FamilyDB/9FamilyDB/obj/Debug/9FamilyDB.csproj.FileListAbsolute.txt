@@ -1,0 +1,9 @@
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\bin\Debug\9FamilyDB.exe.config
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\bin\Debug\9FamilyDB.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\bin\Debug\9FamilyDB.pdb
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.csprojResolveAssemblyReference.cache
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\_9FamilyDB.Properties.Resources.resources
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.csproj.GenerateResource.Cache
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.exe
+C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.pdb
