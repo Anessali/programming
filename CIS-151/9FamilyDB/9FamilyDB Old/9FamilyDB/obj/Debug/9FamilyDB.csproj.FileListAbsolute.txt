@@ -27,3 +27,6 @@ C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\o
 C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.csproj.CoreCompileInputs.cache
 C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.exe
 C:\Users\Shiro\Documents\GIT\programming\CIS-151\9FamilyDB\9FamilyDB\9FamilyDB\obj\Debug\9FamilyDB.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\9FamilyDB\9FamilyDB Old\9FamilyDB\bin\Debug\9FamilyDB.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\9FamilyDB\9FamilyDB Old\9FamilyDB\obj\Debug\9FamilyDB.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\9FamilyDB\9FamilyDB Old\9FamilyDB\obj\Debug\9FamilyDB.pdb

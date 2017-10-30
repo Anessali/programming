@@ -1,0 +1,9 @@
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\bin\Debug\10FamilyDB.exe.config
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\bin\Debug\10FamilyDB.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\bin\Debug\10FamilyDB.pdb
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\obj\Debug\10FamilyDB.csprojResolveAssemblyReference.cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\obj\Debug\_10FamilyDB.Form1.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\obj\Debug\_10FamilyDB.Properties.Resources.resources
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\obj\Debug\10FamilyDB.csproj.GenerateResource.Cache
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\obj\Debug\10FamilyDB.exe
+\\fsd.otc.edu\usrhome\K-N\liggettt\CIS\GIT\programming\CIS-151\10FamilyDB\10FamilyDB\obj\Debug\10FamilyDB.pdb

@@ -9,8 +9,10 @@ namespace Ch14DataGridUpdate
     {
         private OleDbDataAdapter memberDataAdap;
         private DataSet memberDS;
+
         private OleDbCommandBuilder cBuilder;
         private OleDbConnection dbConn;
+
         private OleDbCommand dbCmd;
         private string sConnection;
         private string sql;
