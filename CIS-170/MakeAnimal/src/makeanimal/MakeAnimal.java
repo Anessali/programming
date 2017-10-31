@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package makeanimal;
+import different.Dog;
 
 /**
  *
@@ -34,7 +35,15 @@ public class MakeAnimal {
         dog2.breed = "Huskie";
         dog2.age = 3;
         dog2.speak(3);
+        System.out.println(dog2.getSpaPrice());
         
-        Dog dog3 = new Dog();
+        Dog dog3 = new Dog("Sir Borksalot", "Retriever");
+        System.out.println(dog3.breed);
+        System.out.println(dog2.numOfDogs);
+        System.out.println(dog3.numOfDogs);
+        System.out.println(Dog.numOfDogs);
+        
+        //create a constructor with name and breed
+        
     }   
 }
